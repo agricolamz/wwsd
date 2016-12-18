@@ -17,7 +17,7 @@ setwd("/home/agricolamz/_DATA/OneDrive1/_Work/github/database of the writing sys
 wwsb <- read.csv("database.csv", sep = "\t", na.strings = "")
 
 library(DT)
-datatable(wwsb, filter = 'top', rownames = FALSE)
+datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'))
 ```
 
 #### bibliography
@@ -25,5 +25,5 @@ datatable(wwsb, filter = 'top', rownames = FALSE)
 bibliography <- read.csv("bibliography.csv", sep = "\t", na.strings = "")
 
 library(DT)
-datatable(bibliography, filter = 'top', rownames = FALSE)
+datatable(bibliography, filter = 'top', rownames = FALSE, options = list(autoWidth = FALSE))
 ```
