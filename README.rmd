@@ -7,23 +7,34 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE)
 ```
 
 ###  The World Writing System Database {.tabset .tabset-fade .tabset-pills}
+Some characters may be displayed incorrectly.
 
 #### about database
 Тро-ло-ло
 
 #### search
 ```{r}
+make_link <- function(x, link){
+  paste("<a href='",
+        as.character(link),
+        "' target='_blank'>",
+        as.character(x),
+        "</a>", sep = "")}
+
 setwd("/home/agricolamz/_DATA/OneDrive1/_Work/github/database of the writing systems")
 wwsb <- read.csv("database.csv", sep = "\t", na.strings = "")
-
+wwsb$language <- make_link(wwsb$language, wwsb$omniglot)
+wwsb <- wwsb[,-6]
 library(DT)
-datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'))
+datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), escape = FALSE)
 ```
 
 #### bibliography
 ```{r}
 bibliography <- read.csv("bibliography.csv", sep = "\t", na.strings = "")
+bibliography$language <- make_link(bibliography$language, bibliography$omniglot)
+bibliography <- bibliography[, -3]
 
 library(DT)
-datatable(bibliography, filter = 'top', rownames = FALSE, options = list(autoWidth = FALSE))
+datatable(bibliography, filter = 'top', rownames = FALSE, options = list(autoWidth = FALSE), escape = FALSE)
 ```
