@@ -1,0 +1,25 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+### База данных письменностей мира {.tabset .tabset-fade .tabset-pills}
+
+#### о базе
+Тро-ло-ло
+
+#### пoиск
+
+```{r}
+setwd("/home/agricolamz/_DATA/OneDrive1/_Work/github/database of the writing systems")
+wwsb <- read.csv("database.csv", sep = "\t", na.strings = "")
+
+library(DT)
+datatable(wwsb, rownames = FALSE)
+```
+
+#### библиoграфия
+Тро-ло-ло
