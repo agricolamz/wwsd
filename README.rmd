@@ -23,7 +23,7 @@ make_link <- function(x, link){
 
 setwd("/home/agricolamz/_DATA/OneDrive1/_Work/github/database of the writing systems")
 wwsb <- read.csv("database.csv", sep = "\t", na.strings = "")
-wwsb$language <- make_link(wwsb$language, wwsb$omniglot)
+wwsb$script <- make_link(wwsb$script, wwsb$omniglot)
 wwsb <- wwsb[,-6]
 library(DT)
 datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), escape = FALSE)
@@ -32,7 +32,7 @@ datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), e
 #### bibliography
 ```{r}
 bibliography <- read.csv("bibliography.csv", sep = "\t", na.strings = "")
-bibliography$language <- make_link(bibliography$language, bibliography$omniglot)
+bibliography$script <- make_link(bibliography$script, bibliography$omniglot)
 bibliography <- bibliography[, -3]
 
 library(DT)
