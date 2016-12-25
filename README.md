@@ -1,3 +1,3 @@
 #  The World Writing System Database
 
-Look at the [WCAD website](https://agricolamz.github.io/wwsd/).
+Look at the [WWSD website](https://agricolamz.github.io/wwsd/).
