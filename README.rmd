@@ -33,7 +33,7 @@ datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), e
 ```{r}
 bibliography <- read.csv("bibliography.csv", sep = "\t", na.strings = "")
 bibliography$script <- make_link(bibliography$script, bibliography$omniglot)
-bibliography <- bibliography[, -3]
+bibliography <- bibliography[, -4]
 
 library(DT)
 datatable(bibliography, filter = 'top', rownames = FALSE, options = list(autoWidth = FALSE), escape = FALSE)
