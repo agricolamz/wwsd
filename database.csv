@@ -1,57 +1,4 @@
-script	glyph	unicode	IPA	source	omniglot
-Mkhedruli (Georgian)	ა	U+10D0	a		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ბ	U+10D1	b		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ბ	U+10D1	pʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	გ	U+10D2	ɡ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	გ	U+10D2	kʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	დ	U+10D3	d		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	დ	U+10D3	tʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ე	U+10D4	ɛ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ვ	U+10D5	v		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ვ	U+10D5	β		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ვ	U+10D5	w		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ვ	U+10D5	f		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ვ	U+10D5			http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ზ	U+10D6	z		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	თ	U+10D7	tʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ი	U+10D8	ɪ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	კ	U+10D9	kʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ლ	U+10DA	l		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ლ	U+10DA	ɫ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ლ	U+10DA	l̥		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ლ	U+10DA			http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	მ	U+10DB	m		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ნ	U+10DC	n		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ნ	U+10DC	ŋ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ო	U+10DD	ɔ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	პ	U+10DE	pʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ჟ	U+10DF	ʒ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	რ	U+10E0	r		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	რ	U+10E0	ɾ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	რ	U+10E0	r̥		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	რ	U+10E0	ɾ̥		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	რ	U+10E0			http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ს	U+10E1	s		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ტ	U+10E2	tʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	უ	U+10E3	ʊ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ფ	U+10E4	pʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ქ	U+10E5	kʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ღ	U+10E6	ɣ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ყ	U+10E7	qʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ყ	U+10E7	qχʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ყ	U+10E7	χʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	შ	U+10E8	ʃ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ჩ	U+10E9	t͡ʃʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ც	U+10EA	t͡sʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ძ	U+10EB	dz		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ძ	U+10EB	t͡sʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	წ	U+10EC	tsʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ჭ	U+10ED	tʃʼ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ხ	U+10EE	x		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ჯ	U+10EF	dʒ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ჯ	U+10EF	t͡ʃʰ		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ჰ	U+10F0	h		http://www.omniglot.com/writing/georgian2.htm
-Mkhedruli (Georgian)	ჰ	U+10F0			http://www.omniglot.com/writing/georgian2.htm
+script	grapheme	unicode	IPA	source	omniglot
 Cherokee	Ꭰ	U+13A0	aaː	Montgomery-Anderson, 2008: 31-107	http://www.omniglot.com/writing/cherokee.htm
 Cherokee	Ꭰ	U+13A0	á	Montgomery-Anderson, 2008: 31-107	http://www.omniglot.com/writing/cherokee.htm
 Cherokee	Ꭰ	U+13A0	áː	Montgomery-Anderson, 2008: 31-107	http://www.omniglot.com/writing/cherokee.htm
@@ -1626,3 +1573,530 @@ Cherokee	Ᏼ	U+13F4	y̥vʔ	Montgomery-Anderson, 2008: 31-107	http://www.omniglot
 Cherokee	Ᏼ	U+13F4	y̥v́h	Montgomery-Anderson, 2008: 31-107	http://www.omniglot.com/writing/cherokee.htm
 Cherokee	Ᏼ	U+13F4	y̥v́ʔ	Montgomery-Anderson, 2008: 31-107	http://www.omniglot.com/writing/cherokee.htm
 Cherokee	Ᏼ	U+13F4	y̥vh	Montgomery-Anderson, 2008: 31-107	http://www.omniglot.com/writing/cherokee.htm
+Armenian	Ա	U+0531	ɑ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ա	U+0561	ɑ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ա	U+0531	jɑ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ա	U+0561	jɑ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ա	U+0531		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ա	U+0561		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Բ	U+0532	b	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	բ	U+0562	b	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Բ	U+0532	pʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	բ	U+0562	pʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Գ	U+0533	ɡ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	գ	U+0563	g	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Գ	U+0533	kʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	գ	U+0563	kʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Դ	U+0534	d	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	դ	U+0564	d	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Դ	U+0534	tʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	դ	U+0564	tʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ե	U+0535	ɛ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ե	U+0565	ɛ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ե	U+0535	jɛ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ե	U+0565	jɛ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Զ	U+0536	z	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	զ	U+0566	z	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Է	U+0537	ɛ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	է	U+0567	ɛ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ը	U+0538	ə	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ը	U+0568	ə	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian			ə	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Թ	U+0539	tʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	թ	U+0569	tʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Թ	U+0539	tʰʲ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	թ	U+0569	tʰʲ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ժ	U+053A	ʒ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ժ	U+056A	ʒ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ի	U+053B	i	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ի	U+056B	i	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ի	U+053B	ji	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ի	U+056B	ji	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Լ	U+053C	l	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	լ	U+056C	l	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Խ	U+053D	χ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	խ	U+056D	χ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ծ	U+053E	ts	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ծ	U+056E	ts	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Կ	U+053F	k	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	կ	U+056F	k	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Կ	U+053F	kʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	կ	U+056F	kʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Հ	U+0540	h	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	հ	U+0570	h	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Հ	U+0540		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	հ	U+0570		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ձ	U+0541	dz	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ձ	U+0571	dz	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ձ	U+0541	tsʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ձ	U+0571	tsʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ղ	U+0542	ʁ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ղ	U+0572	ʁ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ղ	U+0542	χ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ղ	U+0572	χ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ճ	U+0543	tʃ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ճ	U+0573	tʃ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Մ	U+0544	m	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	մ	U+0574	m	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Յ	U+0545	j	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	յ	U+0575	j	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ն	U+0546	n	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ն	U+0576	n	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ն	U+0546	ɲ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ն	U+0576	ɲ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ն	U+0546	ŋ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ն	U+0576	ŋ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ն	U+0546	m	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ն	U+0576	m	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Շ	U+0547	ʃ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	շ	U+0577	ʃ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ո	U+0548	ɔ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ո	U+0578	ɔ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ո	U+0548		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ո	U+0578		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ո	U+0548	ʋɔ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ո	U+0578	ʋɔ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Չ	U+0549	tʃʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	չ	U+0579	tʃʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Պ	U+054A	p	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	պ	U+057A	p	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Պ	U+054A	pʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	պ	U+057A	pʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ջ	U+054B	dʒ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ջ	U+057B	dʒ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ջ	U+054B	tʃʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ջ	U+057B	tʃʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ռ	U+054C	r	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ռ	U+057C	r	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ս	U+054D	s	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ս	U+057D	s	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Վ	U+054E	v	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	վ	U+057E	v	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Վ	U+054E	f	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	վ	U+057E	f	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Տ	U+054F	t	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	տ	U+057F	t	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Տ	U+054F	tʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	տ	U+057F	tʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ր	U+0550	ɾ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ր	U+0580	ɾ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ր	U+0550		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ր	U+0580		Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ր	U+0550	r	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ր	U+0580	r	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ց	U+0551	tsʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ց	U+0581	tsʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Փ	U+0553	pʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	փ	U+0583	pʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ք	U+0554	kʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ք	U+0584	kʰ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	և	U+0587	jɛʋ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	և	U+0587	ɛʋ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Օ	U+0555	ɔ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	օ	U+0585	ɔ	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ֆ	U+0556	f	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ֆ	U+0586	f	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ու	U+0548 U+0582	u	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ու	U+0578 U+0582	u	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	Ու	U+0548 U+0582	ju	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Armenian	ու	U+0578 U+0582	ju	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
+Mkhedruli (Georgian)	ა	U+10D0	a	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ბ	U+10D1	b	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ბ	U+10D1	pʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	გ	U+10D2	ɡ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	გ	U+10D2	kʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	დ	U+10D3	d	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	დ	U+10D3	tʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ე	U+10D4	ɛ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ვ	U+10D5	v	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ვ	U+10D5	β	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ვ	U+10D5	w	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ვ	U+10D5	f	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ვ	U+10D5		Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ზ	U+10D6	z	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	თ	U+10D7	tʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ი	U+10D8	ɪ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	კ	U+10D9	kʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ლ	U+10DA	l	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ლ	U+10DA	ɫ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ლ	U+10DA	l̥	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ლ	U+10DA		Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	მ	U+10DB	m	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ნ	U+10DC	n	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ნ	U+10DC	ŋ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ო	U+10DD	ɔ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	პ	U+10DE	pʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ჟ	U+10DF	ʒ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	რ	U+10E0	r	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	რ	U+10E0	ɾ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	რ	U+10E0	r̥	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	რ	U+10E0	ɾ̥	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	რ	U+10E0		Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ს	U+10E1	s	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ტ	U+10E2	tʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	უ	U+10E3	ʊ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ფ	U+10E4	pʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ქ	U+10E5	kʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ღ	U+10E6	ɣ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ყ	U+10E7	qʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ყ	U+10E7	qχʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ყ	U+10E7	χʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	შ	U+10E8	ʃ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ჩ	U+10E9	tʃʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ც	U+10EA	tsʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ძ	U+10EB	dz	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ძ	U+10EB	tsʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	წ	U+10EC	tsʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ჭ	U+10ED	tʃʼ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ხ	U+10EE	x	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ჯ	U+10EF	dʒ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ჯ	U+10EF	tʃʰ	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ჰ	U+10F0	h	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	ჰ	U+10F0		Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Hangul (Korean)	ㅏ	U+1161	a	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅏ	U+1161	a:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅢ	U+1162	ε	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅢ	U+1162	ε:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅑ	U+1163	jɐ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅑ	U+1163	jɐ:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅤ	U+1164	jε	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅤ	U+1164	jε:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅓ	U+1165	ə	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅓ	U+1165	ə:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅦ	U+1166	e	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅦ	U+1166	e:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅕ	U+1167	jə	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅕ	U+1167	jə:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅨ	U+1168	je	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅨ	U+1168	je:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅗ	U+1169	o	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅗ	U+1169	o:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅪ	U+116A	wɐ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅪ	U+116A	wɐ:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅫ	U+116B	we	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅫ	U+116B	we:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅬ	U+116C	we	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅬ	U+116C	we:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅛ	U+116D	jo	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅛ	U+116D	jo:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅜ	U+116E	u	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅜ	U+116E	u:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅯ	U+116F	wə	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅯ	U+116F	wə:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅰ	U+1170	we	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅰ	U+1170	we:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅱ	U+1171	wi	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅱ	U+1171	wi:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅠ	U+1172	ju	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅠ	U+1172	ju:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅡ	U+1173	ɯ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅡ	U+1173	ɯ:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅴ	U+1174	ɯi	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᅴ	U+1174	ɯi:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅣ	U+1175	i:	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ㅣ	U+1175	i	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄀ	U+1100	k	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄀ	U+1100	g	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄀ	U+1100	k̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄁ	U+1101	k͈	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄁ	U+1101	k̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄂ	U+1102	n	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄂ	U+1102	ɲ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄃ	U+1103	t	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄃ	U+1103	d	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄃ	U+1103	t̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄃ	U+1103	dʑ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄄ	U+1104	t͈	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄅ	U+1105	l	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄅ	U+1105	ɾ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄅ	U+1105	n	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄅ	U+1105	ʎ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄅ	U+1105	ɭ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄆ	U+1106	m	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄇ	U+1107	p	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄇ	U+1107	b	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄇ	U+1107	p̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄈ	U+1108	p͈	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄉ	U+1109	sʰ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄉ	U+1109	ɕʰ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄉ	U+1109	z	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄊ	U+110A	s͈	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄊ	U+110A	ɕ͈	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄊ	U+110A	t̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄋ	U+110B	ŋ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄋ	U+110B		Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄌ	U+110C	tɕ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄌ	U+110C	dʑ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄌ	U+110C	t̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄍ	U+110D	t͈ɕ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄎ	U+110E	tɕʰ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄎ	U+110E	t̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄏ	U+110F	kʰ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄏ	U+110F	cç	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄏ	U+110F	kx	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄏ	U+110F	k̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄐ	U+1110	tʰ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄐ	U+1110	tɕʰ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄐ	U+1110	t̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄑ	U+1111	pʰ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄑ	U+1111	p̚	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	h	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	ɦ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112		Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	ç	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	x	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	ɸʷ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	β	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	ɣ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Hangul (Korean)	ᄒ	U+1112	ʝ	Lee 1999	http://www.omniglot.com/writing/korean.htm
+Amharic	ሀ	U+1200	hə	Leslau 1995: 4–5	
+Amharic	ሁ	U+1201	hu	Leslau 1995: 4–6	
+Amharic	ሂ	U+1202	hi	Leslau 1995: 4–7	
+Amharic	ሃ	U+1203	ha	Leslau 1995: 4–8	
+Amharic	ሄ	U+1204	he	Leslau 1995: 4–9	
+Amharic	ህ	U+1205	hɨ	Leslau 1995: 4–10	
+Amharic	ሆ	U+1206	ho	Leslau 1995: 4–11	
+Amharic	ለ	U+1208	lə	Leslau 1995: 4–12	
+Amharic	ሉ	U+1209	lu	Leslau 1995: 4–13	
+Amharic	ሊ	U+120A	li	Leslau 1995: 4–14	
+Amharic	ላ	U+120B	la	Leslau 1995: 4–15	
+Amharic	ሌ	U+120C	le	Leslau 1995: 4–16	
+Amharic	ል	U+120D	lɨ	Leslau 1995: 4–17	
+Amharic	ሎ	U+120E	lo	Leslau 1995: 4–18	
+Amharic	ሐ	U+1210	hə	Leslau 1995: 4–19	
+Amharic	ሑ	U+1211	hu	Leslau 1995: 4–20	
+Amharic	ሒ	U+1212	hi	Leslau 1995: 4–21	
+Amharic	ሓ	U+1213	ha	Leslau 1995: 4–22	
+Amharic	ሔ	U+1214	he	Leslau 1995: 4–23	
+Amharic	ሕ	U+1215	hɨ	Leslau 1995: 4–24	
+Amharic	ሖ	U+1216	ho	Leslau 1995: 4–25	
+Amharic	መ	U+1218	mə	Leslau 1995: 4–26	
+Amharic	ሙ	U+1219	mu	Leslau 1995: 4–27	
+Amharic	ሚ	U+121A	mi	Leslau 1995: 4–28	
+Amharic	ማ	U+121B	ma	Leslau 1995: 4–29	
+Amharic	ሜ	U+121C	me	Leslau 1995: 4–30	
+Amharic	ም	U+121D	mɨ	Leslau 1995: 4–31	
+Amharic	ሞ	U+121E	mo	Leslau 1995: 4–32	
+Amharic	ሠ	U+1220	sə	Leslau 1995: 4–33	
+Amharic	ሡ	U+1221	su	Leslau 1995: 4–34	
+Amharic	ሢ	U+1222	si	Leslau 1995: 4–35	
+Amharic	ሣ	U+1223	sa	Leslau 1995: 4–36	
+Amharic	ሤ	U+1224	se	Leslau 1995: 4–37	
+Amharic	ሥ	U+1225	sɨ	Leslau 1995: 4–38	
+Amharic	ሦ	U+1226	so	Leslau 1995: 4–39	
+Amharic	ረ	U+1228	rə	Leslau 1995: 4–40	
+Amharic	ሩ	U+1229	ru	Leslau 1995: 4–41	
+Amharic	ሪ	U+122A	ri	Leslau 1995: 4–42	
+Amharic	ራ	U+122B	ra	Leslau 1995: 4–43	
+Amharic	ሬ	U+122C	re	Leslau 1995: 4–44	
+Amharic	ር	U+122D	rɨ	Leslau 1995: 4–45	
+Amharic	ሮ	U+122E	ro	Leslau 1995: 4–46	
+Amharic	ሰ	U+1230	sə	Leslau 1995: 4–47	
+Amharic	ሱ	U+1231	su	Leslau 1995: 4–48	
+Amharic	ሲ	U+1232	si	Leslau 1995: 4–49	
+Amharic	ሳ	U+1233	sa	Leslau 1995: 4–50	
+Amharic	ሴ	U+1234	se	Leslau 1995: 4–51	
+Amharic	ስ	U+1235	sɨ	Leslau 1995: 4–52	
+Amharic	ሶ	U+1236	so	Leslau 1995: 4–53	
+Amharic	ሸ	U+1238	ʃə	Leslau 1995: 4–54	
+Amharic	ሹ	U+1239	ʃu	Leslau 1995: 4–55	
+Amharic	ሺ	U+123A	ʃi	Leslau 1995: 4–56	
+Amharic	ሻ	U+123B	ʃa	Leslau 1995: 4–57	
+Amharic	ሼ	U+123C	ʃe	Leslau 1995: 4–58	
+Amharic	ሽ	U+123D	ʃɨ	Leslau 1995: 4–59	
+Amharic	ሾ	U+123E	ʃo	Leslau 1995: 4–60	
+Amharic	ቀ	U+1240	k’ə	Leslau 1995: 4–61	
+Amharic	ቁ	U+1241	k’u	Leslau 1995: 4–62	
+Amharic	ቂ	U+1242	k’i	Leslau 1995: 4–63	
+Amharic	ቃ	U+1243	k’a	Leslau 1995: 4–64	
+Amharic	ቄ	U+1244	k’e	Leslau 1995: 4–65	
+Amharic	ቅ	U+1245	k’ɨ	Leslau 1995: 4–66	
+Amharic	ቆ	U+1246	k’o	Leslau 1995: 4–67	
+Amharic	በ	U+1260	bə	Leslau 1995: 4–68	
+Amharic	ቡ	U+1261	bu	Leslau 1995: 4–69	
+Amharic	ቢ	U+1262	bi	Leslau 1995: 4–70	
+Amharic	ባ	U+1263	ba	Leslau 1995: 4–71	
+Amharic	ቤ	U+1264	be	Leslau 1995: 4–72	
+Amharic	ብ	U+1265	bɨ	Leslau 1995: 4–73	
+Amharic	ቦ	U+1266	bo	Leslau 1995: 4–74	
+Amharic	ተ	U+1270	tə	Leslau 1995: 4–75	
+Amharic	ቱ	U+1271	tu	Leslau 1995: 4–76	
+Amharic	ቲ	U+1272	ti	Leslau 1995: 4–77	
+Amharic	ታ	U+1273	ta	Leslau 1995: 4–78	
+Amharic	ቴ	U+1274	te	Leslau 1995: 4–79	
+Amharic	ት	U+1275	tɨ	Leslau 1995: 4–80	
+Amharic	ቶ	U+1276	to	Leslau 1995: 4–81	
+Amharic	ቸ	U+1278	ʧə	Leslau 1995: 4–82	
+Amharic	ቹ	U+1279	ʧu	Leslau 1995: 4–83	
+Amharic	ቺ	U+127A	ʧi	Leslau 1995: 4–84	
+Amharic	ቻ	U+127B	ʧa	Leslau 1995: 4–85	
+Amharic	ቼ	U+127C	ʧe	Leslau 1995: 4–86	
+Amharic	ች	U+127D	ʧɨ	Leslau 1995: 4–87	
+Amharic	ቾ	U+127E	ʧo	Leslau 1995: 4–88	
+Amharic	ኀ	U+1280	hə	Leslau 1995: 4–89	
+Amharic	ኁ	U+1281	hu	Leslau 1995: 4–90	
+Amharic	ኂ	U+1282	hi	Leslau 1995: 4–91	
+Amharic	ኃ	U+1283	ha	Leslau 1995: 4–92	
+Amharic	ኄ	U+1284	he	Leslau 1995: 4–93	
+Amharic	ኅ	U+1285	hɨ	Leslau 1995: 4–94	
+Amharic	ኆ	U+1286	ho	Leslau 1995: 4–95	
+Amharic	ነ	U+1290	nə	Leslau 1995: 4–96	
+Amharic	ኑ	U+1291	nu	Leslau 1995: 4–97	
+Amharic	ኒ	U+1292	ni	Leslau 1995: 4–98	
+Amharic	ና	U+1293	na	Leslau 1995: 4–99	
+Amharic	ኔ	U+1294	ne	Leslau 1995: 4–100	
+Amharic	ን	U+1295	nɨ	Leslau 1995: 4–101	
+Amharic	ኖ	U+1296	no	Leslau 1995: 4–102	
+Amharic	ኘ	U+1298	ɳə	Leslau 1995: 4–103	
+Amharic	ኙ	U+1299	ɳu	Leslau 1995: 4–104	
+Amharic	ኚ	U+129A	ɳi	Leslau 1995: 4–105	
+Amharic	ኛ	U+129B	ɳa	Leslau 1995: 4–106	
+Amharic	ኜ	U+129C	ɳe	Leslau 1995: 4–107	
+Amharic	ኝ	U+129D	ɳɨ	Leslau 1995: 4–108	
+Amharic	ኞ	U+129E	ɳo	Leslau 1995: 4–109	
+Amharic	አ	U+12A0	ʔə	Leslau 1995: 4–110	
+Amharic	ኡ	U+12A1	ʔu	Leslau 1995: 4–111	
+Amharic	ኢ	U+12A2	ʔi	Leslau 1995: 4–112	
+Amharic	ኣ	U+12A3	ʔa	Leslau 1995: 4–113	
+Amharic	ኤ	U+12A4	ʔe	Leslau 1995: 4–114	
+Amharic	እ	U+12A5	ʔɨ	Leslau 1995: 4–115	
+Amharic	ኦ	U+12A6	ʔo	Leslau 1995: 4–116	
+Amharic	ከ	U+12A8	kə	Leslau 1995: 4–117	
+Amharic	ኩ	U+12A9	ku	Leslau 1995: 4–118	
+Amharic	ኪ	U+12AA	ki	Leslau 1995: 4–119	
+Amharic	ካ	U+12AB	ka	Leslau 1995: 4–120	
+Amharic	ኬ	U+12AC	ke	Leslau 1995: 4–121	
+Amharic	ክ	U+12AD	kɨ	Leslau 1995: 4–122	
+Amharic	ኮ	U+12AE	ko	Leslau 1995: 4–123	
+Amharic	ኸ	U+12B8	hə	Leslau 1995: 4–124	
+Amharic	ኹ	U+12B9	hu	Leslau 1995: 4–125	
+Amharic	ኺ	U+12BA	hi	Leslau 1995: 4–126	
+Amharic	ኻ	U+12BB	ha	Leslau 1995: 4–127	
+Amharic	ኼ	U+12BC	he	Leslau 1995: 4–128	
+Amharic	ኽ	U+12BD	hɨ	Leslau 1995: 4–129	
+Amharic	ኾ	U+12BE	ho	Leslau 1995: 4–130	
+Amharic	ወ	U+12C8	wə	Leslau 1995: 4–131	
+Amharic	ዉ	U+12C9	wu	Leslau 1995: 4–132	
+Amharic	ዊ	U+12CA	wi	Leslau 1995: 4–133	
+Amharic	ዋ	U+12CB	wa	Leslau 1995: 4–134	
+Amharic	ዌ	U+12CC	we	Leslau 1995: 4–135	
+Amharic	ው	U+12CD	wɨ	Leslau 1995: 4–136	
+Amharic	ዎ	U+12CE	wo	Leslau 1995: 4–137	
+Amharic	ዐ	U+12D0	ʔə	Leslau 1995: 4–138	
+Amharic	ዑ	U+12D1	ʔu	Leslau 1995: 4–139	
+Amharic	ዒ	U+12D2	ʔi	Leslau 1995: 4–140	
+Amharic	ዓ	U+12D3	ʔa	Leslau 1995: 4–141	
+Amharic	ዔ	U+12D4	ʔe	Leslau 1995: 4–142	
+Amharic	ዕ	U+12D5	ʔɨ	Leslau 1995: 4–143	
+Amharic	ዖ	U+12D6	ʔo	Leslau 1995: 4–144	
+Amharic	ዘ	U+12D8	zə	Leslau 1995: 4–145	
+Amharic	ዙ	U+12D9	zu	Leslau 1995: 4–146	
+Amharic	ዚ	U+12DA	zi	Leslau 1995: 4–147	
+Amharic	ዛ	U+12DB	za	Leslau 1995: 4–148	
+Amharic	ዜ	U+12DC	ze	Leslau 1995: 4–149	
+Amharic	ዝ	U+12DD	zɨ	Leslau 1995: 4–150	
+Amharic	ዞ	U+12DE	zo	Leslau 1995: 4–151	
+Amharic	ዠ	U+12E0	ʒə	Leslau 1995: 4–152	
+Amharic	ዡ	U+12E1	ʒu	Leslau 1995: 4–153	
+Amharic	ዢ	U+12E2	ʒi	Leslau 1995: 4–154	
+Amharic	ዣ	U+12E3	ʒa	Leslau 1995: 4–155	
+Amharic	ዤ	U+12E4	ʒe	Leslau 1995: 4–156	
+Amharic	ዥ	U+12E5	ʒɨ	Leslau 1995: 4–157	
+Amharic	ዦ	U+12E6	ʒo	Leslau 1995: 4–158	
+Amharic	የ	U+12E8	jə	Leslau 1995: 4–159	
+Amharic	ዩ	U+12E9	ju	Leslau 1995: 4–160	
+Amharic	ዪ	U+12EA	ji	Leslau 1995: 4–161	
+Amharic	ያ	U+12EB	ja	Leslau 1995: 4–162	
+Amharic	ዬ	U+12EC	je	Leslau 1995: 4–163	
+Amharic	ይ	U+12ED	jɨ	Leslau 1995: 4–164	
+Amharic	ዮ	U+12EE	jo	Leslau 1995: 4–165	
+Amharic	ደ	U+12F0	də	Leslau 1995: 4–166	
+Amharic	ዱ	U+12F1	du	Leslau 1995: 4–167	
+Amharic	ዲ	U+12F2	di	Leslau 1995: 4–168	
+Amharic	ዳ	U+12F3	da	Leslau 1995: 4–169	
+Amharic	ዴ	U+12F4	de	Leslau 1995: 4–170	
+Amharic	ድ	U+12F5	dɨ	Leslau 1995: 4–171	
+Amharic	ዶ	U+12F6	do	Leslau 1995: 4–172	
+Amharic	ጀ	U+1300	ʤə	Leslau 1995: 4–173	
+Amharic	ጁ	U+1301	ʤu	Leslau 1995: 4–174	
+Amharic	ጂ	U+1302	ʤi	Leslau 1995: 4–175	
+Amharic	ጃ	U+1303	ʤa	Leslau 1995: 4–176	
+Amharic	ጄ	U+1304	ʤe	Leslau 1995: 4–177	
+Amharic	ጅ	U+1305	ʤɨ	Leslau 1995: 4–178	
+Amharic	ጆ	U+1306	ʤo	Leslau 1995: 4–179	
+Amharic	ገ	U+1308	gə	Leslau 1995: 4–180	
+Amharic	ጉ	U+1309	gu	Leslau 1995: 4–181	
+Amharic	ጊ	U+130A	gi	Leslau 1995: 4–182	
+Amharic	ጋ	U+130B	ga	Leslau 1995: 4–183	
+Amharic	ጌ	U+130C	ge	Leslau 1995: 4–184	
+Amharic	ግ	U+130D	gɨ	Leslau 1995: 4–185	
+Amharic	ጎ	U+130E	go	Leslau 1995: 4–186	
+Amharic	ጠ	U+1320	t’ə	Leslau 1995: 4–187	
+Amharic	ጡ	U+1321	t’u	Leslau 1995: 4–188	
+Amharic	ጢ	U+1322	t’i	Leslau 1995: 4–189	
+Amharic	ጣ	U+1323	t’a	Leslau 1995: 4–190	
+Amharic	ጤ	U+1324	t’e	Leslau 1995: 4–191	
+Amharic	ጥ	U+1325	t’ɨ	Leslau 1995: 4–192	
+Amharic	ጦ	U+1326	t’o	Leslau 1995: 4–193	
+Amharic	ጨ	U+1328	 ʧ’ə	Leslau 1995: 4–194	
+Amharic	ጩ	U+1329	 ʧ’u	Leslau 1995: 4–195	
+Amharic	ጪ	U+132A	 ʧ’i	Leslau 1995: 4–196	
+Amharic	ጫ	U+132B	 ʧ’a	Leslau 1995: 4–197	
+Amharic	ጬ	U+132C	 ʧ’e	Leslau 1995: 4–198	
+Amharic	ጭ	U+132D	 ʧ’ɨ	Leslau 1995: 4–199	
+Amharic	ጮ	U+132E	 ʧ’o	Leslau 1995: 4–200	
+Amharic	ጰ	U+1330	p’ə	Leslau 1995: 4–201	
+Amharic	ጱ	U+1331	p’u	Leslau 1995: 4–202	
+Amharic	ጲ	U+1332	p’i	Leslau 1995: 4–203	
+Amharic	ጳ	U+1333	p’a	Leslau 1995: 4–204	
+Amharic	ጴ	U+1334	p’e	Leslau 1995: 4–205	
+Amharic	ጵ	U+1335	p’ɨ	Leslau 1995: 4–206	
+Amharic	ጶ	U+1336	p’o	Leslau 1995: 4–207	
+Amharic	ጸ	U+1338	tsə	Leslau 1995: 4–208	
+Amharic	ጹ	U+1339	tsu	Leslau 1995: 4–209	
+Amharic	ጺ	U+133A	tsi	Leslau 1995: 4–210	
+Amharic	ጻ	U+133B	tsa	Leslau 1995: 4–211	
+Amharic	ጼ	U+133C	tse	Leslau 1995: 4–212	
+Amharic	ጽ	U+133D	tsɨ	Leslau 1995: 4–213	
+Amharic	ጾ	U+133E	tso	Leslau 1995: 4–214	
+Amharic	ፀ	U+1340	tsə	Leslau 1995: 4–215	
+Amharic	ፁ	U+1341	tsu	Leslau 1995: 4–216	
+Amharic	ፂ	U+1342	tsi	Leslau 1995: 4–217	
+Amharic	ፃ	U+1343	tsa	Leslau 1995: 4–218	
+Amharic	ፄ	U+1344	tse	Leslau 1995: 4–219	
+Amharic	ፅ	U+1345	tsɨ	Leslau 1995: 4–220	
+Amharic	ፆ	U+1346	tso	Leslau 1995: 4–221	
+Amharic	ፈ	U+1348	fə	Leslau 1995: 4–222	
+Amharic	ፉ	U+1349	fu	Leslau 1995: 4–223	
+Amharic	ፊ	U+134A	fi	Leslau 1995: 4–224	
+Amharic	ፋ	U+134B	fa	Leslau 1995: 4–225	
+Amharic	ፌ	U+134C	fe	Leslau 1995: 4–226	
+Amharic	ፍ	U+134D	fɨ	Leslau 1995: 4–227	
+Amharic	ፎ	U+134E	fo	Leslau 1995: 4–228	
+Amharic	ፐ	U+1350	pə	Leslau 1995: 4–229	
+Amharic	ፑ	U+1351	pu	Leslau 1995: 4–230	
+Amharic	ፒ	U+1352	pi	Leslau 1995: 4–231	
+Amharic	ፓ	U+1353	pa	Leslau 1995: 4–232	
+Amharic	ፔ	U+1354	pe	Leslau 1995: 4–233	
+Amharic	ፕ	U+1355	pɨ	Leslau 1995: 4–234	
+Amharic	ፖ	U+1356	po	Leslau 1995: 4–235	
+Amharic	ቈ	U+1248	k’wə	Leslau 1995: 4–236	
+Amharic	ቊ	U+124A	k’wi	Leslau 1995: 4–237	
+Amharic	ቋ	U+124B	k’wa	Leslau 1995: 4–238	
+Amharic	ቌ	U+124C	k’we	Leslau 1995: 4–239	
+Amharic	ቍ	U+124D	hwɨ	Leslau 1995: 4–240	
+Amharic	ኈ	U+1284	hwə	Leslau 1995: 4–241	
+Amharic	ኊ	U+128A	hwi	Leslau 1995: 4–242	
+Amharic	ኋ	U+128B	hwa	Leslau 1995: 4–243	
+Amharic	ኌ	U+128C	hwe	Leslau 1995: 4–244	
+Amharic	ኍ	U+128D	hwɨ	Leslau 1995: 4–245	
+Amharic	ኰ	U+12B0	kwə	Leslau 1995: 4–246	
+Amharic	ኲ	U+12B2	kwi	Leslau 1995: 4–247	
+Amharic	ኳ	U+12B3	kwa	Leslau 1995: 4–248	
+Amharic	ኴ	U+12B4	kwe	Leslau 1995: 4–249	
+Amharic	ኵ	U+12B5	kwɨ	Leslau 1995: 4–250	
+Amharic	ጐ	U+1310	gwə	Leslau 1995: 4–251	
+Amharic	ጒ	U+1312	gwi	Leslau 1995: 4–252	
+Amharic	ጓ	U+1313	gwa	Leslau 1995: 4–253	
+Amharic	ጔ	U+1314	gwe	Leslau 1995: 4–254	
+Amharic	ጕ	U+1315	gwɨ	Leslau 1995: 4–255	
