@@ -33,7 +33,7 @@ setwd("/home/agricolamz/_DATA/OneDrive1/_Work/github/database of the writing sys
 wwsb <- read.csv("database.csv", sep = "\t", na.strings = "")
 wwsb$script <- make_link_omniglot(wwsb$script, wwsb$omniglot)
 wwsb$unicode <- make_link_unicode(wwsb$unicode)
-wwsb <- wwsb[,-6]
+wwsb <- wwsb[,-7]
 library(DT)
 datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), escape = FALSE)
 ```
