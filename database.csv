@@ -2342,3 +2342,334 @@ Khakas	Ӱ	U+04F0	yː		Dyrenkova 1948: 7–13	http://www.omniglot.com/writing/cyr
 Khakas	Ӱӱ	U+04F0 U+04F1	yː		Dyrenkova 1948: 7–13	http://www.omniglot.com/writing/cyrillic.htm
 Khakas	ӱ	U+04F1	yː		Dyrenkova 1948: 7–13	http://www.omniglot.com/writing/cyrillic.htm
 Khakas	ӱӱ	U+04F1 U+04F1	yː		Dyrenkova 1948: 7–13	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	А	U+0410	a		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Аа	U+0410 U+0430	aː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	а	U+0430	a		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	аа	U+0430 U+0430	aː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ы	U+042B	ɨ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ыы	U+042B U+044B	ɨː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ы	U+044B	ɨ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ыы	U+044B U+044B	ɨː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	О	U+041E	o		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Оо	U+041E U+043E	oː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	о	U+043E	o		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	оо	U+043E U+043E	oː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	У	U+0423	u		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Уу	U+0423 U+0443	uː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	у	U+0443	u		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	уу	U+0443 U+0443	uː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Э	U+042D	ɛ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ээ	U+042D U+044D	ɛː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	э	U+044D	ɛ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ээ	U+044D U+044D	ɛː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	И	U+0418	i		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ии	U+0418 U+0438	iː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	и	U+0438	i		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ии	U+0438 U+0438	iː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ө	U+04E8	ø		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Өө	U+04E8 U+04E9	øː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ө	U+04E9	ø		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	өө	U+04E9 U+04E9	øː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ү	U+04AE	y		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Үү	U+04AE U+04AF	yː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ү	U+04AF	y		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	үү	U+04AF U+04AF	yː		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ыа	U+042B U+0430	ɨa		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ыа	U+044B U+0430	ɨa		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Уо	U+0423 U+043E	uo		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	уо	U+0443 U+043E	uo		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Иэ	U+0418 U+044D	iɛ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	иэ	U+0438 U+044D	iɛ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Үө	U+04AE U+04E9	yø		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	үө	U+04AF U+04E9	yø		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Е	U+0415	jɛ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	е	U+0435	jɛ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ё	U+0401	jo		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ё	U+0451	jo		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ю	U+042E	ju		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ю	U+044E	ju		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Я	U+042F	ja		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	я	U+044F	ja		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	П	U+041F	p		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	п	U+043F	p		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Б	U+0411	b		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	б	U+0431	b		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ф	U+0424	f		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ф	U+0444	f		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	В	U+0412	v		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	в	U+0432	v		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	М	U+041C	m		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	м	U+043C	m		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Т	U+0422	t		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	т	U+0442	t		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Д	U+0414	d		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	д	U+0434	d		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	С	U+0421	s		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	с	U+0441	s		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ш	U+0428	ʃ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ш	U+0448	ʃ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	З	U+0417	z		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	з	U+0437	z		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ж	U+0416	ʒ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ж	U+0436	ʒ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Н	U+041D	n		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	н	U+043D	n		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Л	U+041B	l		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	л	U+043B	l		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Р	U+0420	r		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	р	U+0440	r		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Й	U+0419	j		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	й	U+0439	j		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	К	U+041A	k		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	к	U+043A	k		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Г	U+0413	g		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	г	U+0433	g		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Х	U+0425	χ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	х	U+0445	χ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ҕ	U+0494	ʁ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ҕ	U+0495	ʁ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ҥ	U+04A5	ŋ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Һ	U+04BA	h		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	һ	U+04BB	h		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Дь	U+0414 U+044C	d͡ʒ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	дь	U+0434 U+044C	d͡ʒ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ч	U+0427	t͡ʃ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ч	U+0447	t͡ʃ		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	Ц	U+0426	t͡s		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Yakut	ц	U+0446	t͡s		Kharitonov 1947: 47-59	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ö	U+00D6	ø		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Öö	U+00D6 U+00F6	øː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ö	U+00F6	ø		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	öö	U+00F6 U+00F6	øː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	А	U+0410	a		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Аа	U+0430 U+0430	aː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Б	U+0411	b		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	В	U+0412	v		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Г	U+0425	g		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Д	U+0414	d		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ж	U+0416	ʒ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	З	U+0417	z		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	И	U+0418	i		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ии	U+0418	iː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Й	U+0419	j		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	К	U+041A	k		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Л	U+041B	l		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	М	U+041C	m		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Н	U+041D	n		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	О	U+041E	o		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Оо	U+041E U+043E	oː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	П	U+041F	p		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Р	U+0420	r		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	С	U+0421	s		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Т	U+0422	t		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	У	U+0423	u		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Уу	U+0423 U+0443	uː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Х	U+0425	χ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ч	U+0427	t͡ʃ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ы	U+042B	ɨ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Э	U+042D	e		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ээ	U+042D U+044D	eː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	а	U+0430	a		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	аа	U+0430 U+0430	аː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	б	U+0431	b		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	в	U+0432	v		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	г	U+0445	g		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	д	U+0434	d		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	е	U+044D	e		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ее	U+044D U+044D	eː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ж	U+0436	ʒ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	з	U+0437	z		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	и	U+0438	i		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ии	U+0438 U+0438	iː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	й	U+0439	j		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	к	U+043A	k		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	л	U+043B	l		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	м	U+043C	m		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	н	U+043D	n		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	нъ	U+04A3 U+044A	ŋ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	о	U+043E	o		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	оо	U+043E U+043E	oː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	п	U+043F	p		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	р	U+0440	r		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	с	U+0441	s		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	т	U+0442	t		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	у	U+0443	u		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	уу	U+0443 U+0443	uː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	х	U+0445	χ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ч	U+0447	t͡ʃ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ы	U+044B	ɨ		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ыы	U+044B U+044B	ɨː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	э	U+044D	e		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ээ	U+044D U+044D	eː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ӱ	U+04F0	yː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	Ӱӱ	U+04F0 U+04F1	yː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ӱ	U+04F1	yː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Shor	ӱӱ	U+04F1 U+04F1	yː		Dyrenkova 1941: 7-20	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	А	U+0410	a		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	а	U+0430	a		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Аа	U+0430 U+0430	aː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	аа	U+0430 U+0430	аː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	О	U+041E	o	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	о	U+043E	o	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Оо	U+041E U+043E	oː	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	оо	U+043E U+043E	oː	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	У	U+0423	u		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	у	U+0443	u		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Уу	U+0423 U+0443	uː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	уу	U+0443 U+0443	uː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Э	U+042D	ɛ	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ээ	U+042D U+044D	ɛː	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	э	U+044D	ɛ	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ээ	U+044D U+044D	ɛː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ы	U+0448	ɨː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ү	U+04AE	ʉ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ү	U+04AF	ʉ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Үү	U+04AE U+04AF	ʉː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	үү	U+04AF U+04AF	ʉː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	И	U+0418	i		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	и	U+0438	i		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ии	U+0418	iː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ии	U+0438	iː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ю	U+042E	ju		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ю	U+042E	jʉ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ю	U+044E	ju		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ю	U+044E	jʉ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Я	U+042F	ja		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	я	U+044F	ja		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ә	U+04D8	æ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ә	U+04D9	æ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Әә	U+04D8 U+04D9	æː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	әә	U+04D9 U+04D9	æː		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ө	U+04E8	ө	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ө	U+04E9	ө	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Өө	U+04E8 U+04E9	өː	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	өө	U+04E9 U+04E9	өː	только в первом слоге	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Е	U+0415	jɛ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	е	U+0435	jɛ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ё	U+0401	jo		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ё	U+0451	jo		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Б	U+0411	b		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	В	U+0412	v		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Г	U+0425	ɣ	в словах с гласными заднего ряда	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Г	U+0425	g	в словах с гласными переднего ряда	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Д	U+0414	d		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ж	U+0416	ʒ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Җ	U+0496	d͡ʒ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	җ	U+0497	d͡ʒ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	З	U+0417	z		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Й	U+0419	j		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Л	U+041B	l		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	М	U+041C	m		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Н	U+041D	n		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	П	U+041F	p		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Р	U+0420	r		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	С	U+0421	s		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Т	U+0422	t		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Х	U+0425	x	в словах с гласными переднего ряда	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Х	U+0425	χ	в словах с гласными заднего ряда	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Ш	U+0428	ʃ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	К	U+041A	k		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	к	U+043A	k		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	б	U+0431	b	в абсолютном начале слова	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	б	U+0431	β	в интервокальной позиции	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	в	U+0432	v		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	г	U+0445	ɣ	в словах с гласными заднего ряда	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	г	U+0445	g	в словах с гласными переднего ряда	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	д	U+0434	d		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ж	U+0436	ʒ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	з	U+0437	z		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	й	U+0439	j		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	л	U+043B	l		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	м	U+043C	m		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	н	U+043D	n		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ӊ	U+04CA	ŋ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	п	U+043F	p		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	р	U+0440	r		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	с	U+0441	s		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	т	U+0442	t		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	х	U+0445	x	в словах с гласными переднего ряда	Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	х	U+0445	χ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	ш	U+0448	ʃ		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	Һ	U+04BA	h		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Kalmyk	һ	U+04BB	h		Sanzheev 1983: 4-34	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	А	U+0410	ɑ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	а	U+0430	ɑ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ы	U+042B	ɨ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ы	U+044B	ɨ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	О	U+041E	o		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	о	U+043E	o		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	У	U+0423	u		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	у	U+0443	u		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	у	U+0443	w	в сочетании с гласным заднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Э	U+042D	e		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	э	U+044D	e		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ә	U+04D8	æ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ә	U+04D9	æ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	И	U+0418	i		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	и	U+0438	i		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ө	U+04E8	ø		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ө	U+04E9	ø		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ү	U+04AE	y		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ү	U+04AF	y		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ү	U+04AF	w	в сочетании с гласным переднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Е	U+0415	je		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	е	U+0435	je		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ё	U+0401	jo		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ё	U+0451	jo		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ю	U+042E	ju		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ю	U+044E	ju		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Я	U+042F	ja		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	я	U+044F	ja		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	П	U+041F	p		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	п	U+043F	p		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Б	U+0411	b		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	б	U+0431	b		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ф	U+0424	f		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ф	U+0444	f		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	В	U+0412	v		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	в	U+0432	v		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	В	U+0412	w	в начале слова	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	в	U+0432	w	в начале слова	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	М	U+041C	m		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	м	U+043C	m		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Т	U+0422	t		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	т	U+0442	t		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Д	U+0414	d		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	д	U+0434	d		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	С	U+0421	s		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	с	U+0441	s		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ҫ	U+04AA	θ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ҫ	U+04AB	θ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ш	U+0428	ʃ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ш	U+0448	ʃ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	З	U+0417	z		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	з	U+0437	z		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ҙ	U+0498	ð		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ҙ	U+0499	ð		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ж	U+0416	ʒ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ж	U+0436	ʒ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Н	U+041D	n		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	н	U+043D	n		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Л	U+041B	l		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	л	U+043B	l		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Р	U+0420	r		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	р	U+0440	r		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Й	U+0419	j		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	й	U+0439	j		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	К	U+041A	k	в словах с гласными переднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	к	U+043A	k	в словах с гласными переднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ҡ	U+04A0	q	в словах с гласными заднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ҡ	U+04A0	q	в словах с гласными заднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Г	U+0413	g	в словах с гласными переднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	г	U+0433	g	в словах с гласными переднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ғ	U+0492	ʁ	в словах с гласными заднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ғ	U+0492	ʁ	в словах с гласными заднего ряда	Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Х	U+0425	χ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	х	U+0445	χ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ӊ	U+04CA	ŋ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Һ	U+04BA	h		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	һ	U+04BB	h		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ч	U+0427	t͡ʃ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ч	U+0447	t͡ʃ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	Ц	U+0426	t͡s		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
+Bashkir	ц	U+0446	t͡s		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
