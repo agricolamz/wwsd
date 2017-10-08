@@ -2674,111 +2674,168 @@ Bashkir	ч	U+0447	t͡ʃ		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/c
 Bashkir	Ц	U+0426	t͡s		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
 Bashkir	ц	U+0446	t͡s		Yuldashev 1981: 31-61	http://www.omniglot.com/writing/cyrillic.htm
 Tibetan	ཀ	U+0F40	ká		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཅ	U+0F45	tʃá		Tournade, Dorje, 2003: 44-54	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཏ	U+0F4F	tá		Tournade, Dorje, 2003: 44-53	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	པ	U+0F54	pá		Tournade, Dorje, 2003: 44-52	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཙ	U+0F59	tsá		Tournade, Dorje, 2003: 44-51	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཞ	U+0F5E	ʒá		Tournade, Dorje, 2003: 44-50	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ར	U+0F62	rā		Tournade, Dorje, 2003: 44-49	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཧ	U+0F67	há		Tournade, Dorje, 2003: 44-48	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཁ	U+0F41	kʰá		Tournade, Dorje, 2003: 44-47	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཆ	U+0F46	tʃʰá		Tournade, Dorje, 2003: 44-46	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཐ	U+0F50	tʰá		Tournade, Dorje, 2003: 44-45	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཕ	U+0F55	pʰá		Tournade, Dorje, 2003: 44-44	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཚ	U+0F5A	tsʰá		Tournade, Dorje, 2003: 44-43	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཟ	U+0F5F	zā		Tournade, Dorje, 2003: 44-42	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལ	U+0F63	lā		Tournade, Dorje, 2003: 44-41	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཨ	U+0F68	á		Tournade, Dorje, 2003: 44-40	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ག	U+0F42	gā		Tournade, Dorje, 2003: 44-39	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཇ	U+0F47	dʒā		Tournade, Dorje, 2003: 44-38	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ད	U+0F51	dā		Tournade, Dorje, 2003: 44-37	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	བ	U+0F56	bā		Tournade, Dorje, 2003: 44-36	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཛ	U+0F5B	dzā		Tournade, Dorje, 2003: 44-35	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	འ	U+0F60	ā		Tournade, Dorje, 2003: 44-34	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཤ	U+0F64	ʃá		Tournade, Dorje, 2003: 44-33	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ང	U+0F44	ŋā		Tournade, Dorje, 2003: 44-32	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཉ	U+0F49	ɲā		Tournade, Dorje, 2003: 44-31	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ན	U+0F53	nā		Tournade, Dorje, 2003: 44-30	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	མ	U+0F58	mā		Tournade, Dorje, 2003: 44-29	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཝ	U+0F5D	wā		Tournade, Dorje, 2003: 44-28	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཡ	U+0F61	jā		Tournade, Dorje, 2003: 44-27	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ས	U+0F66	sá		Tournade, Dorje, 2003: 44-26	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ི	U+0F72	í		Tournade, Dorje, 2003: 44-25	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ུ	U+0F74	ú		Tournade, Dorje, 2003: 44-24	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ེ	U+0F7A	é		Tournade, Dorje, 2003: 44-23	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ོ	U+0F7C	ó		Tournade, Dorje, 2003: 44-22	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྐ	U+0F62 U+0F90	ká		Tournade, Dorje, 2003: 44-21	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྐ	U+0F63 U+0F90	ká		Tournade, Dorje, 2003: 44-20	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྐ 	U+0F66 U+0F90	ká		Tournade, Dorje, 2003: 44-19	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྕ	U+0F63 U+0F95	tʃá		Tournade, Dorje, 2003: 44-18	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྟ	U+0F62 U+0F9F	tá		Tournade, Dorje, 2003: 44-17	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྟ	U+0F63 U+0F9F	tá		Tournade, Dorje, 2003: 44-16	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྟ	U+0F66 U+0F9F	tá		Tournade, Dorje, 2003: 44-15	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྤ	U+0F63 U+0FA4	pá		Tournade, Dorje, 2003: 44-14	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྤ	U+0F66 U+0FA4	pá		Tournade, Dorje, 2003: 44-13	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྩ	U+0F62 U+0FA9	tsá		Tournade, Dorje, 2003: 44-12	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྩ 	U+0F66 U+0FA9	tsá		Tournade, Dorje, 2003: 44-11	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྒ	U+0F62 U+0F92	gā		Tournade, Dorje, 2003: 44-10	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྒ	U+0F63 U+0F92	gā		Tournade, Dorje, 2003: 44-9	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྒ	U+0F66 U+0F92	gā		Tournade, Dorje, 2003: 44-8	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྗ	U+0F62 U+0F97	d͡ʒa		Tournade, Dorje, 2003: 44-7	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྗ	U+0F63 U+0F97	d͡ʒa		Tournade, Dorje, 2003: 44-6	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྡ	U+0F62 U+0FA1	dā		Tournade, Dorje, 2003: 44-5	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྡ	U+0F63 U+0FA1	dā		Tournade, Dorje, 2003: 44-4	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྡ	U+0F66 U+0FA1	dā		Tournade, Dorje, 2003: 44-3	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྦ	U+0F62 U+0FA6	bā		Tournade, Dorje, 2003: 44-2	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྦ	U+0F63 U+0FA6	bā		Tournade, Dorje, 2003: 44-1	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྦ	U+0F66 U+0FA6	bā		Tournade, Dorje, 2003: 440	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྫ	U+0F62 U+0FAB	dzā		Tournade, Dorje, 2003: 441	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྔ	U+0F62 U+0F94	ŋá		Tournade, Dorje, 2003: 442	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྔ	U+0F63 U+0F94	ŋá		Tournade, Dorje, 2003: 443	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྔ	U+0F66 U+0F94	ŋá		Tournade, Dorje, 2003: 444	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྙ	U+0F62 U+0F99	ɲá		Tournade, Dorje, 2003: 445	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྙ	U+0F66 U+0F99	ɲá		Tournade, Dorje, 2003: 446	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྣ	U+0F62 U+0F9E	ná		Tournade, Dorje, 2003: 447	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྣ	U+0F66 U+0F9E	ná		Tournade, Dorje, 2003: 448	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྨ	U+0F62 U+0FA8	má		Tournade, Dorje, 2003: 449	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྨ	U+0F66 U+0FA8	má		Tournade, Dorje, 2003: 4410	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྷ	U+0F63 U+0FB7	há		Tournade, Dorje, 2003: 4411	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཀྱ	U+0F40 U+0FB1	cá		Tournade, Dorje, 2003: 4412	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	པྱ	U+0F54 U+0FB1	c͡çá		Tournade, Dorje, 2003: 4413	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཁྱ	U+0F41 U+0FB1	cʰá		Tournade, Dorje, 2003: 4414	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཕྱ	U+0F55 U+0FB1	c͡çʰá		Tournade, Dorje, 2003: 4415	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	གྱ	U+0F42 U+0FB1	ɟā		Tournade, Dorje, 2003: 4416	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	བྱ	U+0F56 U+0FB1	ɟ͡ʝā		Tournade, Dorje, 2003: 4417	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	མྱ	U+0F58 U+0FB1	ɲā		Tournade, Dorje, 2003: 4418	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཀྲ	U+0F40 U+0FB2	ʈrá		Tournade, Dorje, 2003: 4419	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཁྲ	U+0F41 U+0FB2	ʈʰrá		Tournade, Dorje, 2003: 4420	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	གྲ	U+0F42 U+0FB2	ɖrā		Tournade, Dorje, 2003: 4421	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཏྲ	U+0F4F U+0FB2	ʈrá		Tournade, Dorje, 2003: 4422	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཐྲ	U+0F50 U+0FB2	ʈʰrá		Tournade, Dorje, 2003: 4423	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	དྲ	U+0F51 U+0FB2	ɖrā		Tournade, Dorje, 2003: 4424	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	པྲ	U+0F54 U+0FB2	ʈrá		Tournade, Dorje, 2003: 4425	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཕྲ	U+0F55 U+0FB2	ʈʰrá		Tournade, Dorje, 2003: 4426	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	བྲ	U+0F56 U+0FB2	ɖrā		Tournade, Dorje, 2003: 4427	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	མྲ	U+0F58 U+0FB2	má		Tournade, Dorje, 2003: 4428	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཤྲ	U+0F64 U+0FB2	ʃá		Tournade, Dorje, 2003: 4429	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྲ	U+0F66 U+0FB2	sá		Tournade, Dorje, 2003: 4430	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཧྲ	U+0F67 U+0FB2	ʂá		Tournade, Dorje, 2003: 4431	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཀླ	U+0F40 U+0FB3	lá		Tournade, Dorje, 2003: 4432	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	གླ	U+0F42 U+0FB3	lā		Tournade, Dorje, 2003: 4433	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	བླ	U+0F56 U+0FB3	lá		Tournade, Dorje, 2003: 4434	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཟླ	U+0F5F U+0FB3	tā		Tournade, Dorje, 2003: 4435	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རླ	U+0F62 U+0FB3	lá		Tournade, Dorje, 2003: 4436	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སླ	U+0F66 U+0FB3	lá		Tournade, Dorje, 2003: 4437	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཀྭ	U+0F66 U+0FAD	ká		Tournade, Dorje, 2003: 4438	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཅྭ	U+0F66 U+0FAD	tʃá		Tournade, Dorje, 2003: 4439	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཏྭ	U+0F66 U+0FAD	tá		Tournade, Dorje, 2003: 4440	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཙྭ	U+0F66 U+0FAD	tsá		Tournade, Dorje, 2003: 4441	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཞྭ	U+0F66 U+0FAD	ʒá		Tournade, Dorje, 2003: 4442	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	རྭ	U+0F66 U+0FAD	rá		Tournade, Dorje, 2003: 4443	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཧྭ	U+0F66 U+0FAD	há		Tournade, Dorje, 2003: 4444	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཁྭ	U+0F66 U+0FAD	gá		Tournade, Dorje, 2003: 4445	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཚྭ	U+0F66 U+0FAD	tsʰá		Tournade, Dorje, 2003: 4446	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཟྭ	U+0F66 U+0FAD	zá		Tournade, Dorje, 2003: 4447	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ལྭ	U+0F66 U+0FAD	lá		Tournade, Dorje, 2003: 4448	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	དྭ	U+0F66 U+0FAD	dā		Tournade, Dorje, 2003: 4449	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཤྭ	U+0F66 U+0FAD	ʃá		Tournade, Dorje, 2003: 4450	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	ཉྭ	U+0F66 U+0FAD	ɲā		Tournade, Dorje, 2003: 4451	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	སྭ	U+0F66 U+0FAD	sá		Tournade, Dorje, 2003: 4452	http://www.omniglot.com/writing/tibetan.htm
-Tibetan	གྭ	U+0F66 U+0FAD	ga		Tournade, Dorje, 2003: 4453	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཅ	U+0F45	tʃá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཏ	U+0F4F	tá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	པ	U+0F54	pá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཙ	U+0F59	tsá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཞ	U+0F5E	ʒá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ར	U+0F62	rā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཧ	U+0F67	há		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཁ	U+0F41	kʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཆ	U+0F46	tʃʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཐ	U+0F50	tʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཕ	U+0F55	pʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཚ	U+0F5A	tsʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཟ	U+0F5F	zā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལ	U+0F63	lā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཨ	U+0F68	á		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ག	U+0F42	gā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཇ	U+0F47	dʒā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ད	U+0F51	dā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	བ	U+0F56	bā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཛ	U+0F5B	dzā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	འ	U+0F60	ā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཤ	U+0F64	ʃá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ང	U+0F44	ŋā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཉ	U+0F49	ɲā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ན	U+0F53	nā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	མ	U+0F58	mā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཝ	U+0F5D	wā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཡ	U+0F61	jā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ས	U+0F66	sá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ི	U+0F72	í		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ུ	U+0F74	ú		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ེ	U+0F7A	é		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ོ	U+0F7C	ó		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྐ	U+0F62 U+0F90	ká		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྐ	U+0F63 U+0F90	ká		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྐ 	U+0F66 U+0F90	ká		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྕ	U+0F63 U+0F95	tʃá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྟ	U+0F62 U+0F9F	tá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྟ	U+0F63 U+0F9F	tá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྟ	U+0F66 U+0F9F	tá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྤ	U+0F63 U+0FA4	pá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྤ	U+0F66 U+0FA4	pá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྩ	U+0F62 U+0FA9	tsá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྩ 	U+0F66 U+0FA9	tsá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྒ	U+0F62 U+0F92	gā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྒ	U+0F63 U+0F92	gā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྒ	U+0F66 U+0F92	gā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྗ	U+0F62 U+0F97	d͡ʒa		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྗ	U+0F63 U+0F97	d͡ʒa		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྡ	U+0F62 U+0FA1	dā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྡ	U+0F63 U+0FA1	dā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྡ	U+0F66 U+0FA1	dā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྦ	U+0F62 U+0FA6	bā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྦ	U+0F63 U+0FA6	bā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྦ	U+0F66 U+0FA6	bā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྫ	U+0F62 U+0FAB	dzā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྔ	U+0F62 U+0F94	ŋá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྔ	U+0F63 U+0F94	ŋá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྔ	U+0F66 U+0F94	ŋá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྙ	U+0F62 U+0F99	ɲá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྙ	U+0F66 U+0F99	ɲá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྣ	U+0F62 U+0F9E	ná		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྣ	U+0F66 U+0F9E	ná		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྨ	U+0F62 U+0FA8	má		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྨ	U+0F66 U+0FA8	má		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྷ	U+0F63 U+0FB7	há		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཀྱ	U+0F40 U+0FB1	cá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	པྱ	U+0F54 U+0FB1	c͡çá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཁྱ	U+0F41 U+0FB1	cʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཕྱ	U+0F55 U+0FB1	c͡çʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	གྱ	U+0F42 U+0FB1	ɟā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	བྱ	U+0F56 U+0FB1	ɟ͡ʝā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	མྱ	U+0F58 U+0FB1	ɲā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཀྲ	U+0F40 U+0FB2	ʈrá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཁྲ	U+0F41 U+0FB2	ʈʰrá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	གྲ	U+0F42 U+0FB2	ɖrā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཏྲ	U+0F4F U+0FB2	ʈrá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཐྲ	U+0F50 U+0FB2	ʈʰrá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	དྲ	U+0F51 U+0FB2	ɖrā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	པྲ	U+0F54 U+0FB2	ʈrá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཕྲ	U+0F55 U+0FB2	ʈʰrá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	བྲ	U+0F56 U+0FB2	ɖrā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	མྲ	U+0F58 U+0FB2	má		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཤྲ	U+0F64 U+0FB2	ʃá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྲ	U+0F66 U+0FB2	sá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཧྲ	U+0F67 U+0FB2	ʂá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཀླ	U+0F40 U+0FB3	lá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	གླ	U+0F42 U+0FB3	lā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	བླ	U+0F56 U+0FB3	lá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཟླ	U+0F5F U+0FB3	tā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རླ	U+0F62 U+0FB3	lá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སླ	U+0F66 U+0FB3	lá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཀྭ	U+0F66 U+0FAD	ká		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཅྭ	U+0F66 U+0FAD	tʃá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཏྭ	U+0F66 U+0FAD	tá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཙྭ	U+0F66 U+0FAD	tsá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཞྭ	U+0F66 U+0FAD	ʒá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	རྭ	U+0F66 U+0FAD	rá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཧྭ	U+0F66 U+0FAD	há		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཁྭ	U+0F66 U+0FAD	gá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཚྭ	U+0F66 U+0FAD	tsʰá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཟྭ	U+0F66 U+0FAD	zá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ལྭ	U+0F66 U+0FAD	lá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	དྭ	U+0F66 U+0FAD	dā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཤྭ	U+0F66 U+0FAD	ʃá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	ཉྭ	U+0F66 U+0FAD	ɲā		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	སྭ	U+0F66 U+0FAD	sá		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tibetan	གྭ	U+0F66 U+0FAD	ga		Tournade, Dorje, 2003: 44-55	http://www.omniglot.com/writing/tibetan.htm
+Tamil	க்	U+0B95 U+0BCD	k		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	க்	U+0B95 U+0BCD	g		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	க்	U+0B95 U+0BCD	x		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ங்	U+0B99 U+0BCD	ŋ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ச்	U+0B9A U+0BCD	t͡ɕ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ச்	U+0B9A U+0BCD	d͡ʑ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ச்	U+0B9A U+0BCD	ɕ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஞ்	U+0B9E U+0BCD	ɲ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ட்	U+0B9F U+0BCD	ʈ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ட்	U+0B9F U+0BCD	ɖ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ண்	U+0BA3 U+0BCD	ɳ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	த்	U+0BA4 U+0BCD	t̪		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	த்	U+0BA4 U+0BCD	d̪		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	த்	U+0BA4 U+0BCD	ð		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ந்	U+0BA8 U+0BCD	n̪		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ப்	U+0BAA U+0BCD	p		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ப்	U+0BAA U+0BCD	b		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ப்	U+0BAA U+0BCD	β		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ம்	U+0BAE U+0BCD	m		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ய்	U+0BAF U+0BCD	j		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ர்	U+0BB0 U+0BCD	ɾ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ல்	U+0BB2 U+0BCD	l		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	வ்	U+0BB5 U+0BCD	ʋ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ழ்	U+0BB4 U+0BCD	ɻ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ள்	U+0BB3 U+0BCD	ɭ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ற்	U+0BB1 U+0BCD	r		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ன்	U+0BA9 U+0BCD	n̪		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	அ	U+0B85	ʌ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஆ	U+0B86	ɑː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	இ	U+0B87	i		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஈ	U+0B88	iː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	உ	U+0B89	u		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஊ	U+0B8A	uː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	எ	U+0B8E	e		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஏ	U+0B8F	eː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஐ	U+0B90	ʌj		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஒ	U+0B92	o		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஓ	U+0B93	oː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ஔ	U+0B94	ʌʋ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ொ	U+0BCA	o		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ோ	U+0BCB	oː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ௌ	U+0BCC	ʌʋ		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ெ	U+0BC6	e		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ே	U+0BC7	eː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ை	U+0BC8	ʌj		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ா	U+0BCE	ɑː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ி	U+0BCF	i		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ீ	U+0BC0	iː		M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ு	U+0BC1	u	with ஞ் ண் த் ந் ல் ற் ன்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ு	U+0BC1	u	with ட் ம் ர் ழ் ள்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ு	U+0BC1	u	with ங் ச் ப் ய் வ்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ு	U+0BC1	u	with க்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ூ	U+0BC2	uː	with ஞ் ண் த் ந் ல் ற் ன்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ூ	U+0BC2	uː	with ட் ம் ர் ழ் ள்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ூ	U+0BC2	uː	with ங் ப் ய் வ்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ூ	U+0BC2	uː	with ச்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
+Tamil	ூ	U+0BC2	uː	with க்	M. S. Andronov, 1965: 14-20	http://www.omniglot.com/writing/tamil.htm
