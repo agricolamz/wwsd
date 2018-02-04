@@ -1,6 +1,7 @@
 ---
-output: html_document
-output_dir: docs
+output: 
+  html_document:
+    output_dir: docs
 ---
 
 ```{r setup, include=FALSE}
