@@ -6,6 +6,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+library(tidyverse)
 ```
 
 ###  The World Writing System Database {.tabset .tabset-fade .tabset-pills}
@@ -31,7 +32,7 @@ make_link_unicode <- function(u){
         as.character(u),
         "</a>", sep = "")}
 
-wwsb <- read.csv("database.csv", sep = "\t", na.strings = "")
+wwsb <- read_csv("database.csv", na = "")
 wwsb$script <- make_link_omniglot(wwsb$script, wwsb$omniglot)
 wwsb$unicode <- make_link_unicode(wwsb$unicode)
 wwsb <- wwsb[,-7]
@@ -41,7 +42,7 @@ datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), e
 
 #### bibliography
 ```{r}
-bibliography <- read.csv("bibliography.csv", sep = "\t", na.strings = "")
+bibliography <- read_tsv("bibliography.csv")
 bibliography$script <- make_link_omniglot(bibliography$script, bibliography$omniglot)
 bibliography <- bibliography[, -4]
 
