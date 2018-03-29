@@ -3100,7 +3100,7 @@ Katakana,ゼ,U+30BC,dze,,"Labrune, 2012: 29, 69",https://www.omniglot.com/writin
 Katakana,ゾ,U+30BE,dzo,,"Labrune, 2012: 29, 69",https://www.omniglot.com/writing/japanese_katakana.htm
 Katakana,ダ,U+30C0,da,,"Labrune, 2012: 29, 69",https://www.omniglot.com/writing/japanese_katakana.htm
 Katakana,ヂ,U+30C2,dʑi,,"Labrune, 2012: 29, 73",https://www.omniglot.com/writing/japanese_katakana.htm
-Katakana,ズ,U+30C5,dzɯ,,"Labrune, 2012: 29, 73",
+Katakana,ズ,U+30C5,dzɯ,,"Labrune, 2012: 29, 73",https://www.omniglot.com/writing/japanese_katakana.htm
 Katakana,デ,U+30C7,de,,"Labrune, 2012: 29, 69",https://www.omniglot.com/writing/japanese_katakana.htm
 Katakana,ド,U+30C9,do,,"Labrune, 2012: 29, 69",https://www.omniglot.com/writing/japanese_katakana.htm
 Katakana,バ,U+30D0,ba,,"Labrune, 2012: 29, 69",https://www.omniglot.com/writing/japanese_katakana.htm
@@ -3218,8 +3218,8 @@ Crimean Tatar,ю,U+044E,y,,Kavitskaya 2010: 5-17,https://www.omniglot.com/writin
 Crimean Tatar,я,U+044F,ja,в середине и в абсолютном конце слова,Kavitskaya 2010: 5-17,https://www.omniglot.com/writing/crimeantatar.php
 Turkish,A,U+0041,a,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,a,U+0061,a,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
-Turkish,A,U+0041,ạ,"в позиции перед или после [c], [ɟ], [l]","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
-Turkish,a,U+0061,ạ,"в позиции перед или после [c], [ɟ], [l]","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
+Turkish,A,U+0041,a̟,"в позиции перед или после [c], [ɟ], [l]","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
+Turkish,a,U+0061,a̟,"в позиции перед или после [c], [ɟ], [l]","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,B,U+0042,b,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,b,U+0062,b,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,C,U+0043,d͡ʒ,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
@@ -3272,8 +3272,8 @@ Turkish,n,U+006E,ŋ,в позиции между гласным заднего �
 Turkish,n,U+006E,ɲ,в позиции между гласным переднего ряда и заднеязычным мягким согласным,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,O,U+004F,o,только в первом слоге исконных слов,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,o,U+006F,o,только в первом слоге исконных слов,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
-Turkish,O,U+004F,ọ,в позиции перед или после [l],"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
-Turkish,o,U+006F,ọ,в позиции перед или после [l],"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
+Turkish,O,U+004F,o̠,в позиции перед или после [l],"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
+Turkish,o,U+006F,o̠,в позиции перед или после [l],"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,Ö,U+00D6,ø,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,ö,U+00F6,ø,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,P,U+0050,p,в позиции перед согласным,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
@@ -3291,8 +3291,8 @@ Turkish,T,U+0054,t,в позиции перед согласным,"Göksel, Ker
 Turkish,t,U+0074,tʰ,в позиции перед гласным или в абсолютном конце слова,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,U,U+0055,u,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,u,U+0075,u,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
-Turkish,U,U+0055,ụ,"в позиции перед или после [c], [ɟ], [l] в заимствованиях","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
-Turkish,u,U+0075,ụ,"в позиции перед или после [c], [ɟ], [l] в заимствованиях","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
+Turkish,U,U+0055,u̟,"в позиции перед или после [c], [ɟ], [l] в заимствованиях","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
+Turkish,u,U+0075,u̟,"в позиции перед или после [c], [ɟ], [l] в заимствованиях","Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,u,U+0075,ʊ,в абслютном конце слова,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,Ü,U+00DC,y,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
 Turkish,ü,U+00FC,y,,"Göksel, Kerslake 2005: 4-11",https://www.omniglot.com/writing/turkish.htm
@@ -3525,3 +3525,236 @@ Vietnamese,x,U+0078,s,,Thompson 1987: 3-17,http://omniglot.com/writing/vietnames
 Vietnamese,Y,U+0059,i,,Thompson 1987: 3-17,http://omniglot.com/writing/vietnamese.htm
 Vietnamese,y,U+0079,i,,Thompson 1987: 3-17,http://omniglot.com/writing/vietnamese.htm
 Vietnamese,yêu,U+0079 U+00EA U+0075,ie˫w,,Thompson 1987: 3-17,http://omniglot.com/writing/vietnamese.htm
+Nanai,А,U+0410,a,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,А,U+0410,aː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Ай,U+0410 U+0439,ae,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Аи,U+0410 U+0438,ae,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Ао,U+0410 U+043E,ao,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,а,U+0430,a,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,а,U+0430,аː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ай,U+0430 U+0439,ae,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,аи,U+0430 U+0438,ae,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ан,U+0430 U+043D,aⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ао,U+0430 U+043E,ao,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,аон,U+0430 U+043E U+043D,aoⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,аин,U+0430 U+0438 U+043D,aeⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Б,U+0411,b,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,б,U+0431,b,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,В,U+0412,β,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,в,U+0432,β,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Г,U+0413,g,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,г,U+0433,g,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Д,U+0414,d,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Д,U+0414,d͡ʒ,"в позиции перед е, ё, и, ю, я",Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,д,U+0434,d,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,д,U+0434,d͡ʒ,"в позиции перед е, ё, и, ю, я",Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Е,U+0415,jə,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,е,U+0435,jə,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,е,U+0435,ə,в позиции после д и н,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ей,U+0435 U+0439,əi,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,еу,U+0435 U+0443,əu,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,еин,U+0435 U+0438 U+043D,əiⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,еун,U+0435 U+0443 U+043D,əuⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Ё,U+0401,jo,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ё,U+0451,jo,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ё,U+0451,o,в позиции после д и н,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ё,U+0451,oː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ён,U+0451 U+043D,oⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ёй,U+0451 U+0439,oi,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ёа,U+0451 U+0430,oa,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ёин,U+0451 U+0438 U+043D,oiⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ёан,U+0451 U+0430 U+043D,oaⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,И,U+0418,i,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,И,U+0418,iː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,И,U+0418,e,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,И,U+0418,eː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,И,U+0418,ji,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,И,U+0418,je,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,и,U+0438,i,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,и,U+0438,iː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,и,U+0438,e,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,и,U+0438,eː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,и,U+0438,ji,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,и,U+0438,je,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ин,U+0438 U+043D,iⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ин,U+0438 U+043D,eⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,иэ,U+0438 U+044D,iə,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,иу,U+0438 U+0443,iu,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,иа,U+0438 U+0430,ia,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ио,U+0438 U+043E,io,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,иэн,U+0438 U+044D U+043D,iəⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,иун,U+0438 U+0443 U+043D,iəⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,иан,U+0438 U+0430 U+043D,iəⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ион,U+0438 U+043E U+043D,iəⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,К,U+041A,k,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,к,U+043A,k,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Л,U+041B,l,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,л,U+043B,l,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,М,U+041C,m,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,м,U+043C,m,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Н,U+041D,n,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Н,U+041D,ɲ,"в позиции перед е, ё, и, ю, я",Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,н,U+043D,n,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,н,U+043D,ɲ,"в позиции перед е, ё, и, ю, я",Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,н,U+043D,ŋ,"в позиции перед г, х, к",Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,нг,U+043D U+0433,ŋ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,О,U+041E,o,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,О,U+041E,oː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Ой,U+041E U+0439,oe,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,о,U+043E,o,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,о,U+043E,oː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,он,U+043E U+043D,oⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ой,U+043E U+0439,oi,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ои,U+043E U+0438,oi,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,оа,U+043E U+0430,oa,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,оин,U+043E U+0438 U+043D,oiⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,оан,U+043E U+0430 U+043D,oaⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,П,U+041F,p,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,п,U+043F,p,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Р,U+0420,r,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,р,U+0440,r,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,С,U+0421,s,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,с,U+0441,s,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Т,U+0422,t,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,т,U+0442,t,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,У,U+0423,u,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,У,U+0423,uː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Уй,U+0423 U+0439,ui,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,у,U+0443,u,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,у,U+0443,uː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,уй,U+0443 U+0439,uː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,уй,U+0443 U+0439,ui,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,уи,U+0443 U+0438,ui,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ун,U+0443 U+043D,uⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,уэ,U+0443 U+044D,uə,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,уин,U+0443 U+0438 U+043D,uiⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,уэн,U+0443 U+044D U+043D,uəⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Х,U+0425,x,в словах с гласными переднего ряда,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,х,U+0445,x,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Ч,U+0427,t͡ʃ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ч,U+0447,t͡ʃ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ы,U+044B,ɯ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Э,U+042D,ə,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Э,U+042D,əː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Эй,U+042D U+0439,əi,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,э,U+044D,ə,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,э,U+044D,əː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,эй,U+044D U+0439,əi,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,эи,U+044D U+0438,əi,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,эу,U+044D U+0443,əu,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,эин,U+044D U+0438 U+043D,əiⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,эун,U+044D U+0443 U+043D,əuⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Ю,U+042E,ju,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ю,U+044E,ju,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,юй,U+044E U+0439,ui,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,юн,U+044E U+043D,uⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,юэ,U+044E U+044D,uə,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,юин,U+044E U+0438 U+043D,uiⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,юэн,U+044E U+044D U+043D,uəⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Я,U+042F,ja,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Яй,U+042F U+0439,ai,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,Яи,U+042F U+0438,ai,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,я,U+044F,ja,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,яй,U+044F U+0439,jaː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,яи,U+044F U+0438,jaː,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,ян,U+044F U+043D,aⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,яо,U+044F U+043E,ao,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,яин,U+044F U+0438 U+043D,aiⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Nanai,яон,U+044F U+043E U+043D,aoⁿ,,Avrorin 1959: 66-70,https://www.omniglot.com/writing/nanai.htm
+Pacoh,A,U+0041,aː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,a,U+0061,aː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,aơ,U+0061 U+01A1,ɯ˷ː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Á,U+00C1,a,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,á,U+00E1,a,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,áơ,U+00E1 U+01A1,ɯ˷,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Â,U+00C2,ɤ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,â,U+00E2,ɤ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,B,U+0042,ɓ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,b,U+0062,ɓ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,C,U+0043,k,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,c,U+0063,k,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ch,U+0063 U+0068,c,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,D,U+0044,ɗ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,d,U+0064,ɗ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,dy,U+0064 U+0079,ʄ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,E,U+0045,ɛː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,e,U+0065,ɛː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ei,U+0065 U+0069,iː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ea,U+0065 U+0061,ia,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,É,U+00C9,ɛ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,é,U+00E9,ɛ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,éi,U+00E9 U+0069,i,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ê,U+00CA,eː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ê,U+00EA,eː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ế,U+1EBE,e,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ế,U+1EBF,e,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,G,U+0047,ɡ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,g,U+0067,ɡ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,H,U+0048,h,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,h,U+0068,h,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,I,U+0049,iː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,i,U+0069,iː,В конце слова [j],"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ia,U+0069 U+0061,iə,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,iê,U+0069 U+00EA,iə,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Í,U+00CD,i,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,í,U+00ED,i,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,K,U+004B,k,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Kh,U+004B U+0068,kh,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,k,U+006B,k,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,kh,U+006B U+0068,kh,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,L,U+004C,l,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,l,U+006C,l,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,M,U+004D,m,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,m,U+006D,m,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,N,U+004E,n˰,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Nh,U+004E U+0068,ɲ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Nch,U+004E U+0063 U+0068,ʔəɲc,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,n,U+006E,n˰,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,nh,U+006E U+0068,ɲ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,nch,U+006E U+0063 U+0068,ʔəɲc,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ng,U+006E U+0067,ŋ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,O,U+004F,ɔː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,o,U+006F,ɔː,В конце слова [w],"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ou,U+006F U+0075,u˷ː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,oa,U+006F U+0061,ua,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ó,U+00D3,ɔ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ó,U+00F3,ɔ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,óu,U+00F3 U+0075,u˷,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ô,U+00D4,oː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ô,U+00F4,oː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ố,U+1ED0,o,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ố,U+1ED1,o,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ơ,U+01A0,ɤː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ơ,U+01A1,ɤː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ơa,U+01A1 U+0061,ɯ˷a,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,P,U+0050,p,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ph,U+0050 U+0068,ph,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,p,U+0070,p,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ph,U+0070 U+0068,ph,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Q,U+0051,ʔ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,q,U+0071,ʔ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,R,U+0052,ř,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,r,U+0072,ř,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,T,U+0054,t˰,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Th,U+0054 U+0068,,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,t,U+0074,t˰,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,th,U+0074 U+0068,th,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,tha,U+0074 U+0068 U+0061,t˰h,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,U,U+0055,uː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,u,U+0075,uː,В конце слова [w],"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ua,U+0075 U+0061,uə,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,uô,U+0075 U+00F4,uə,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ú,U+00DA,u,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ú,U+00FA,u,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ư,U+01AF,ɯː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ư,U+01B0,ɯː,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ưa,U+01B0 U+0061,ɯə,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ươ,U+01B0 U+01A1,ɯə,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Ứ,U+1EE8,ɯ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,ứ,U+1EE9,ɯ,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,V,U+0056,v,В начале слова,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,v,U+0076,v,В начале слова,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,X,U+0058,s,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,x,U+0078,s,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,Y,U+0059,j,,"Watsons,Canxóiq 2013: 11-15",
+Pacoh,y,U+0079,j,,"Watsons,Canxóiq 2013: 11-15",
