@@ -2,6 +2,11 @@
 output: 
   html_document:
     output_dir: docs
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'docs';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, 'index.html')) })
 ---
 
 ```{r setup, include=FALSE}
