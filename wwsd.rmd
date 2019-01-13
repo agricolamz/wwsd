@@ -12,7 +12,7 @@ editor_options:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning = FALSE)
 library(tidyverse)
 ```
 
@@ -20,7 +20,7 @@ library(tidyverse)
 Some characters may be displayed incorrectly.
 
 #### about database
-Тро-ло-ло
+This database contains corespondences between writing and phonology. The main goal for this database is to investigate homography and homophony variability and find some correlations between that and some other linguistic and sociolinguistics variables.
 
 #### search
 ```{r}
