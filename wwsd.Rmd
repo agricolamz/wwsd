@@ -58,5 +58,5 @@ datatable(bibliography, filter = 'top', rownames = FALSE, options = list(autoWid
 
 Cite this work as the following:
 
-G. Moroz (2020) The World Writing System Database. Moscow: Linguistic Convergence Laboratory. Retrieved from https://agricolamz.github.io/wwsd/
+G. Moroz (2020) The World Writing System Database v. 0.0.2. Moscow: Linguistic Convergence Laboratory. Retrieved from https://agricolamz.github.io/wwsd/
 
