@@ -22,7 +22,7 @@ library(tidyverse)
 Some characters may be displayed incorrectly.
 
 #### about database
-This database contains corespondences between writing and phonology. The main goal for this database is to investigate homography and homophony variability and find some correlations between that and some other linguistic and sociolinguistics variables.
+This database contains corespondences between graphemes and phonology. The main goal for this database is to investigate homography and homophony variability and find some correlations between that and some other linguistic and sociolinguistics variables.
 
 #### search
 ```{r}
@@ -53,3 +53,10 @@ bibliography <- bibliography[, -4]
 library(DT)
 datatable(bibliography, filter = 'top', rownames = FALSE, options = list(autoWidth = FALSE), escape = FALSE)
 ```
+
+#### cite
+
+Cite this work as the following:
+
+G. Moroz (2020) The World Writing System Database. Moscow: Linguistic Convergence Laboratory. Retrieved from https://agricolamz.github.io/wwsd/
+
