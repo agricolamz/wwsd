@@ -1,6 +1,6 @@
 script	collected	source	omniglot
 Cherokee	Anna Verdieva	Montgomery-Anderson, 2008: 31-107	http://www.omniglot.com/writing/cherokee.htm
-Mkhedruli(Georgian)	Antonina Sinelnik	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
+Mkhedruli (Georgian)	Antonina Sinelnik	Aronson, Howard I. (1990). Georgian: a reading grammar	http://www.omniglot.com/writing/georgian2.htm
 Hangul (Korean)	Antonina Sinelnik	"Lee, Hyun Bok (1999). ""Korean"". Handbook of the International Phonetic Association"	http://www.omniglot.com/writing/korean.htm
 Armenian	Antonina Sinelnik	Dum-Tragut, Jasmine (2009). Armenian: Modern Eastern Armenian	http://www.omniglot.com/writing/armenian.htm
 Amharic	Anna Verdieva	Leslau, W. (1995). Reference grammar of Amharic. Otto Harrassowitz Verlag.	http://www.omniglot.com/writing/amharic.htm
@@ -13,9 +13,9 @@ Kalmyk	Vyacheslav Ivanov	Sanzheev G. D. (red.) Grammatika kalmytskogo yazyka. Fo
 Bashkir	Vyacheslav Ivanov	Yuldashev, A. A. (red.) (1981) Grammatika sovremennogo bashkirskogo literaturnogo yazyka. Moscow	http://www.omniglot.com/writing/cyrillic.htm
 Tibetan	Anna Verdieva	Tournade N. (2003) Manual of Standard Tibetan +AC0- Language and Civilization/ Nicolas Tournade, Sangda Dorje +AC0- Ithaca, NY: Snow Lion Publications.	http://www.omniglot.com/writing/tibetan.htm
 Tamil	Anna Verdieva	Andronov, M. S. (1965). The Tamil Language. Nauka.	http://www.omniglot.com/writing/tamil.htm
-Mongolian	Vyacheslav Ivanov	Todaeva, B. Kh. (1951) Grammatika sovremennogo mongolskogo yazika. Moscow	http://www.omniglot.com/writing/mongolian.htm
-Japanese Hiragana	Kanami Tobe	Labrune, L. (2012). The phonology of Japanese. Oxford University Press.	https://www.omniglot.com/writing/japanese+AF8-hiragana.htm
-Japanese Katakana	Kanami Tobe	Labrune, L. (2012). The phonology of Japanese. Oxford University Press.	https://www.omniglot.com/writing/japanese+AF8-katakana.htm
+Mongolian (Cyrillic)	Vyacheslav Ivanov	Todaeva, B. Kh. (1951) Grammatika sovremennogo mongolskogo yazika. Moscow	http://www.omniglot.com/writing/mongolian.htm
+Japanese (Hiragana)	Kanami Tobe	Labrune, L. (2012). The phonology of Japanese. Oxford University Press.	https://www.omniglot.com/writing/japanese+AF8-hiragana.htm
+Japanese (Katakana)	Kanami Tobe	Labrune, L. (2012). The phonology of Japanese. Oxford University Press.	https://www.omniglot.com/writing/japanese+AF8-katakana.htm
 Crimean Tatar	Vyacheslav Ivanov	Kavitskaya D. (2010) Crimean Tatar. Linkom Europa	https://www.omniglot.com/writing/crimeantatar.php
 Turkish	Vyacheslav Ivanov	Göksel A., Kerslake C. (2004) Turkish: A Comprehensive Grammar. London	https://www.omniglot.com/writing/turkish.htm
 Nganasan	Daria Demkina	Zhovnitskaja, S. N. (2009) Nganasanskij yazik. Krasnoyarsk	https://www.omniglot.com/writing/nganasan.htm
@@ -25,13 +25,13 @@ Pacoh	Daria Demkina	Watson R.,S., Canxóiq C. (2013) Pacoh – Vietnamese – En
 Kri	Daria Demkina	Enfield N. J., Diffloth G. (2009) Phonology and sketch grammar of Kri, a Vietic language of Laos. Cahiers de linguistique Asie orientale	http://omniglot.com/writing/kri.htm
 Wa	Daria Demkina	Mai M. S.(2012) A Descriptive Grammar of Wa. Payap University.	http://omniglot.com/writing/wa.htm
 Khmer	Daria Demkina	Gorgoniev Y. A. Grammatika khmerskogo jazyka [A grammar of the Khmer language] //Moskva: Izdatel’stvo Nauka. Decorative symmetry in ritual (and everyday) language. – 1966. – Т. 585.	NA
-Belorussian	Darya Zubova	Sjarzhuk, A. (2000) Govori so mnoj po-belorusski. Minsk	NA
-Bulgarian	Darya Zubova	Maslov, Yu. S. (1981) Grammatika bolgarskogo yazyka. Moscow	NA
+Belarusian 1	Darya Zubova	Sjarzhuk, A. (2000) Govori so mnoj po-belorusski. Minsk	NA
+Bulgarian 1	Darya Zubova	Maslov, Yu. S. (1981) Grammatika bolgarskogo yazyka. Moscow	NA
 Kazakh	Darya Zubova	Krippers, Karl A. (1997) Kazakh Grammar with Affix List	NA
 Kyrgyz	Darya Zubova	Kara, D. S. (2003) Kyrgyz, Lincom Europa	NA
 Tajik	Darya Zubova	Ido, Sh. (2005) Tajik, Lincom Europa	NA
 Uzbek	Darya Zubova	Ibragimov, S. I. (1972) Voprosy sovershenstvovaniya alfavitov tyurkskih yazykov SSSR, Moscow	NA
-Ukranian	Darya Zubova	Danyenko, A., Vakylenko, S. (1995) Ukranian, Lincom Europa, M_nchen-Newcastle	NA
+Ukrainian	Darya Zubova	Danyenko, A., Vakylenko, S. (1995) Ukranian, Lincom Europa, M_nchen-Newcastle	NA
 Serbian	Darya Zubova	Hammond, L. (2005) Serbian. An Essential Grammar. Routledge, London and New York	NA
 Macedonian	Darya Zubova	Friedman, V. (2001) Macedonian, SEELRC	NA
 Latvian	Darya Zubova	Mathiassen, T. (1996) A short grammar of Latvian, Slavica Publishers	NA
@@ -52,12 +52,12 @@ siSwati	Anna Simonyan	Corum, C. W. (1978). An Introduction to the Swazi (siSwati
 seTswana	Anna Simonyan	Peace Corps Botswana(2008). An Introduction to the Setswana Language	https://www.omniglot.com/writing/latin.htm
 chiTonga	Anna Simonyan	Carter, H., & Kashoki, M. E. (2002). An outline of Chitonga grammar. Bookworld Pub House.	https://www.omniglot.com/writing/latin.htm
 Tsonga	Anna Simonyan	Ouwehand, M. (1965). Everyday Tsonga. Swiss Mission in South Africa.	https://www.omniglot.com/writing/latin.htm
-Zulu	Anna Simonyan	Wilkes, A., & Nkosi, N. (2003). Zulu. Teach Yourself.	https://www.omniglot.com/writing/latin.htm
+Zulu 1	Anna Simonyan	Wilkes, A., & Nkosi, N. (2003). Zulu. Teach Yourself.	https://www.omniglot.com/writing/latin.htm
 Xhosa	Anna Simonyan	Kirsch, B., Skorge, S., & Magona, S. (2003). Teach Yourself Xhosa. Hodder Headline.	https://www.omniglot.com/writing/latin.htm
 Afrikaans	Anna Simonyan	McDermott, L. (2005). Teach Yourself Afrikaans. NTC Publishing Group.	https://www.omniglot.com/writing/latin.htm
-Belarusian	Violetta Ivanova	Peter Mayo. Belorussian. Bernard Comrie, Greville C. Corbett (eds.) The Slavonic Languages. London and New York, 1993.	http://www.omniglot.com/writing/belarusian.htm
+Belarusian 2	Violetta Ivanova	Peter Mayo. Belorussian. Bernard Comrie, Greville C. Corbett (eds.) The Slavonic Languages. London and New York, 1993.	http://www.omniglot.com/writing/belarusian.htm
 Ukrainian	Violetta Ivanova	Stefan M. Pugh and Ian Press. Ukrainian. A comprehensive grammar. 1999	https://www.omniglot.com/writing/ukrainian.htm
-Bulgarian	Violetta Ivanova	Ernest A. Scatton. Bulgarian. Bernard Comrie, Greville G. Corbett (eds.). The slavonic languages. 1993	https://www.omniglot.com/writing/bulgarian.htm
+Bulgarian 2	Violetta Ivanova	Ernest A. Scatton. Bulgarian. Bernard Comrie, Greville G. Corbett (eds.). The slavonic languages. 1993	https://www.omniglot.com/writing/bulgarian.htm
 Russian	Violetta Ivanova	Князев С.В., Пожарицкая С.К. Современный русский литературный язык. Фонетика, орфоэпия, графика и орфография. М.: Гаудеамус, 2011.	https://www.omniglot.com/writing/russian.htm
 Polish	Violetta Ivanova	Sadowska. Polish. A Comprehensive Grammar. Routledge: London and New York. 2012.	https://www.omniglot.com/writing/polish.htm
 Czech	Violetta Ivanova	Laura A. Janda and Charles E. Towsend. Czech. 2000	https://www.omniglot.com/writing/czech.htm
@@ -92,9 +92,9 @@ Tigrinya	Irina Astafyeva	Mason, J. S. (Ed.). (1996). Tigrinya grammar. Red Sea P
 Tigre Geez	Irina Astafyeva	Raz, S. (1983). Tigre grammar and texts (Vol. 4). Undena Publications.	http://www.omniglot.com/writing/tigre.htm
 Ainu Katakana	Kanami Tobe	1994『アコㇿ イタㇰAKOR ITAK アイヌ語テキスト１』, Phonplogical change in Japanese-Ainu Loanwords, Edwin Everhart, 2009: 10-11	NA
 Ainu Latin	Kanami Tobe	1994『アコㇿ イタㇰAKOR ITAK アイヌ語テキスト１』, Phonplogical change in Japanese-Ainu Loanwords, Edwin Everhart, 2009: 10-11	NA
-Aymar	Alina Tillabayeva	Hardman, Martha James, Juana Vásquez, and Juan de Dios Yapita. Aymara Grammatical Sketch: To Be Used with Aymar Ar Yatiqañataki. Gainesville, Fla: Aymara Language Materials Project, Dept. of Anthropology, University of Florida, 1971.	https://www.omniglot.com/writing/aymara.htm
+Aymara	Alina Tillabayeva	Hardman, Martha James, Juana Vásquez, and Juan de Dios Yapita. Aymara Grammatical Sketch: To Be Used with Aymar Ar Yatiqañataki. Gainesville, Fla: Aymara Language Materials Project, Dept. of Anthropology, University of Florida, 1971.	https://www.omniglot.com/writing/aymara.htm
 Paraguayan Guarani	Alina Tillabayeva	Estigarribia, B. (2017). A Grammar Sketch of Paraguayan Guarani. Guarani linguistics in the 21st century, 7-85.	https://www.omniglot.com/writing/guarani.htm
-Kichwa (Kichwa Shimi / Runa Shimi)	Alina Tillabayeva	"Натаров А. Н. (2013) Грамматика языка кечуа
+Kichwa	Alina Tillabayeva	"Натаров А. Н. (2013) Грамматика языка кечуа
 "	https://omniglot.com/writing/kichwa.htm
 Arawak	Alina Tillabayeva	Pet, W. (2011). A grammar sketch and lexicon of Arawak (Lokono Dian). SIL e-Books, 30.	https://www.omniglot.com/writing/arawak.htm
 Swahili	Asya Simonyan	Russell, J. (1996). Swahili (Teach Yourself).	
@@ -130,7 +130,7 @@ Dhivehi (Thaana)	Anna Sorokina	Gnanadesikan, A. E., (2012). Maldivian Thaana, Ja
 Welsh	Tanya Masumi	Awbery G. Welsh. – na, 2009.	https://www.omniglot.com/writing/welsh.htm
 Breton	Tanya Masumi	Press I., Bihan H. Colloquial Breton: The complete course for beginners //FORUM FOR MODERN LANGUAGE STUDIES. – GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND : OXFORD UNIV PRESS, 2005.	https://www.omniglot.com/writing/breton.htm
 Cornish	Tanya Masumi	Smith A. S. D., Hooper E. G. R. Cornish simplified: short lessons for self-tuition: pronunciation, grammar, exercises. – Dyllansow Truran, 1972.	https://www.omniglot.com/writing/cornish.htm
-Scottish	Tanya Masumi	Gillies W. Scottish Gaelic //The Celtic Languages. – Routledge, 2009. – С. 244-318.	https://www.omniglot.com/writing/gaelic.htm
+Scottish Gaelic	Tanya Masumi	Gillies W. Scottish Gaelic //The Celtic Languages. – Routledge, 2009. – С. 244-318.	https://www.omniglot.com/writing/gaelic.htm
 Irish	Tanya Masumi	Doyle A. Irish, volume 201 of Languages of the World/Materials //Munich, Germany: LINCOM EUROPA. – 2001.	https://www.omniglot.com/writing/irish.htm
 Manx	Tanya Masumi	Broderick G. Manx //The Celtic Languages. – Routledge, 2009. – С. 319-370.	https://www.omniglot.com/writing/manx.htm
 Italian	Tanya Masumi	Sandro Carnevali, Fonetica della lingua italiana  (1998-2007)	https://www.omniglot.com/writing/italian.htm
@@ -152,7 +152,7 @@ German	Violetta Ivanova	Bruce Donaldson. German. An Essential Grammar. Routledge
 Dutch	Violetta Ivanova	Gerdi Quist, Dennis Strik. Teach Yourself Dutch. 2003	https://www.omniglot.com/writing/dutch.htm
 English (BrE)	Violetta Ivanova	Michael Swan. Practical English Usage. Oxford University Press, 2009	https://www.omniglot.com/writing/english.htm
 English (BrE)	Violetta Ivanova	Rebecca M. Dauer. Accurate English: a complete course in pronunciation. Prentice Hall Regents, 1993.	https://www.omniglot.com/writing/english.htm
-Idish	Violetta Ivanova	Dovid Katz. Grammar of the Yiddish Language. Duckworth, 1987.	https://www.omniglot.com/writing/yiddish.htm
+Yiddish	Violetta Ivanova	Dovid Katz. Grammar of the Yiddish Language. Duckworth, 1987.	https://www.omniglot.com/writing/yiddish.htm
 Finnish	Irina Astafyeva	https://www.scribd.com/doc/316881341/Teach-Yourself-Finnish-1-pdf#fullscreen=1	http://www.omniglot.com/writing/finnish.htm
 Moksha	Irina Astafyeva	Поляков О. Е. Русско-мокшанский разговорник //Саранск: Мордов. кн. изд-во. – 1993.	http://www.omniglot.com/writing/moksha.htm
 Ter Sami	Irina Astafyeva	Куруч Р. Д. Краткий грамматический очерк саамского языка //РД Куруч (ред.). Саамско-русский словарь. М: Русский язык. – 1985. – С. 529-567.	http://www.omniglot.com/writing/tersami.htm
@@ -161,7 +161,7 @@ Udmurt	Irina Astafyeva	"И. В. Тараканов. Алфавит. — Удму
 Nganasan	Irina Astafyeva	Жовницкая-Турдагина С. Н. Ня’’ букварь. СПб., 1999.	http://www.omniglot.com/writing/nganasan.htm
 Ingrian	Irina Astafyeva	http://lingvisto.org/files/ingrian.pdf	http://www.omniglot.com/writing/ingrian.htm
 Erzya	Irina Astafyeva	Г. Аитов. Новый алфавит. Великая революция на востоке. — Саратов: Нижневолжское краевое изд-во, 1932. — С. 61-64. — 73 с. — 3150 экз.	http://www.omniglot.com/writing/erzya.htm
-Voro (Uralic)	Irina Astafyeva	https://linguapedia.info/languages/voro.html	http://www.omniglot.com/writing/voro.htm
+Võro	Irina Astafyeva	https://linguapedia.info/languages/voro.html	http://www.omniglot.com/writing/voro.htm
 Northern Sami	Irina Astafyeva	Svonni, E Mikael. Sámegiel-ruoŧagiel skuvlasátnelistu. — Sámiskuvlastivra, 1984. — P. III.	http://www.omniglot.com/writing/northernsami.htm
 Skolt Sami	Irina Astafyeva	Korhonen, Mikko. Mosnikoff, Jouni. Sammallahti, Pekka. Koltansaamen opas. Castreanumin toimitteita, Helsinki 1973.	http://www.omniglot.com/writing/skoltsami.htm
 Karelian	Irina Astafyeva	Zajkov P. M. Grammatika karelĘąskogo jazyka:(fonetika i morfologija). – Periodika, 1999.	http://www.omniglot.com/writing/karelian.htm
@@ -174,7 +174,7 @@ Inuktitut	Roman Tarasov	Rogers (2005) Writing Systems: a Linguistic Approach. pp
 Bambara	Roman Tarasov	Doumboya (2012) Illustrated English/N'ko Alphabet: An Introduction to N'ko for English Speakers.	http://omniglot.com/writing/nko.htm
 Mongolian	Roman Tarasov	Bat-Ireedui (2015) Colloquial Mongolian. The Complete Course for Beginners	http://omniglot.com/writing/mongolian.htm
 Hanuno'o	Roman Tarasov	Conklin (1953) Hanunóo-English Vocabulary. Berkeley & Los-Angeles	http://omniglot.com/writing/hanunoo.htm
-Zulu	Roman Tarasov	Doke. Vilakazi (1972) Zulu-English Dictionary. Johannesburg	https://omniglot.com/writing/zulu.htm
+Zulu 2	Roman Tarasov	Doke. Vilakazi (1972) Zulu-English Dictionary. Johannesburg	https://omniglot.com/writing/zulu.htm
 Persian Braille	Roman Tarasov	UNESCO (2013) World Braille Usage. Washington,D.C.	https://omniglot.com/writing/braille.htm
 Itbayat	Nikita Shennikov	Cesar A. Hidalgo, A Tagmemic Grammar of Ivatan, 1971	
 Tao	Nikita Shennikov	Rau, D. Victoria, Maa-Neu Dong,  Yami texts with reference grammar and dictionary, 2006	
