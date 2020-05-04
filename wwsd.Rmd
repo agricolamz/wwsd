@@ -46,7 +46,7 @@ datatable(wwsb, filter = 'top', rownames = FALSE, options = list(dom = 'tip'), e
 
 #### bibliography
 ```{r}
-bibliography <- read_tsv("bibliography.csv")
+bibliography <- read_tsv("bibliography.tsv")
 bibliography$script <- make_link_omniglot(bibliography$script, bibliography$omniglot)
 bibliography <- bibliography[, -4]
 
